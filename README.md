@@ -4,6 +4,7 @@
 <table border="5"> 
 <tr>
   #Habilidades e Estudos:
+    <td>Habilidades Técnicas</td>
     <td>💻Desenvolvimento Front-End</td>
     <td>🖥Desenvolvimento Back-End </td>
     <td>📚Estudando Atualmente</td>
@@ -12,6 +13,7 @@
   </tr>
  
 <tr>  
+  <td> Técnico de Informática</td>
   <td> HTML5</td> 
   <td> Java</td>
   <td> Desenvolvimento Web</td>
@@ -20,6 +22,7 @@
 </tr>
     
  <tr>   
+  <td> Montagem e Manutenção</td> 
   <td> CSS3</td>
   <td> JDBC</td>
   <td> Wordpress</td>
@@ -28,12 +31,24 @@
  </tr>  
     
  <tr>  
+  <td> Redes de Computadores</td> 
   <td> JavaScript</td> 
   <td> Frameworks Java</td>
   <td> Bootstrap</td>
   <td> Serviços Web</td>
   <td> Bancos de Dados Relacionais</td>
  </tr>   
+  
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  
+  
  </table>    
  
  
@@ -50,6 +65,7 @@
   <img align="center" alt="Max-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Max-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Max-Data" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Max-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Max-Wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
   <img align="center" alt="Max-Bp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   
