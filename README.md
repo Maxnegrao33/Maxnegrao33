@@ -4,7 +4,7 @@
 <table border="5"> 
 <tr>
   #Habilidades e Estudos:
-    <td>Habilidades Técnicas</td>
+    <td>🛠Habilidades Técnicas</td>
     <td>💻Desenvolvimento Front-End</td>
     <td>🖥Desenvolvimento Back-End </td>
     <td>📚Estudando Atualmente</td>
@@ -22,7 +22,7 @@
 </tr>
     
  <tr>   
-  <td> Montagem e Manutenção</td> 
+  <td> Montagem e Manutenção de Computadores</td> 
   <td> CSS3</td>
   <td> JDBC</td>
   <td> Wordpress</td>
