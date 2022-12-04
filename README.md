@@ -3,33 +3,37 @@
 
 <table border="5"> 
 <tr>
-  #Habilidades e Estudos:
+  #Skills:
+    <td>🏆Sobre Mim</td>
     <td>🛠Habilidades Técnicas</td>
     <td>💻Desenvolvimento Front-End</td>
     <td>🖥Desenvolvimento Back-End </td>
-    <td>📱Mobile</td>
+    
   </tr>
  
 <tr>  
+  <td>Graduando em Eng. da Computação </td>
   <td> Técnico de Informática</td>
   <td> HTML5</td> 
   <td> Java</td>
-  <td> Java</td>
+ 
   
 </tr>
     
  <tr>   
+  <td>Pós Graduando em Eng. de Software</td>
   <td> Montagem e Manutenção de Computadores</td> 
   <td> CSS3</td>
   <td> Orientação a Objeto</td>
-  <td> Android</td>
+  
  </tr>  
     
  <tr>  
+  <td> Bancos de Dados Relacionais</td>
   <td> Redes de Computadores</td> 
   <td> JavaScript</td> 
   <td> JDBC</td>
-  <td> Frameworks Java</td>
+  
  </tr>   
   
  <tr> 
@@ -45,7 +49,7 @@
   <tr>
     <td>📚Estudando Atualmente</td>
     <td>📆Projetos em Andamento</td>
-    <td>🏆Sobre Mim</td>
+    <td>📱Mobile (Estudando)</td>
     <td>🥇Sistema Operacionais</td>
     <td> </td>
     <td> </td>
@@ -54,23 +58,25 @@
   <tr> 
     <td>Desenvolvimento Web</td>
     <td>Proedev.com </td>
-    <td>Graduando em Eng. da Computação </td>
+    <td> Java</td>
     <td>Windows </td>
+    
     <td> </td>
   </tr>
   
   <tr> 
     <td>Wordpress</td>
     <td>Criação de Sites </td>
-    <td>Pós Graduando em Eng. de Software</td>
+    <td>Android</td>
     <td>Ubuntu </td>
+    
     <td> </td>
   </tr>
   
   <tr>
     <td> Bootstrap</td>
     <td> Serviços Web</td>
-    <td> Bancos de Dados Relacionais</td>
+    <td> Frameworks Java</td>
     <td> Debian</td>
     <td> </td>
   </tr>
