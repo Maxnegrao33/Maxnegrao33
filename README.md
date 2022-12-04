@@ -21,16 +21,24 @@
  <tr>   
   <td> Montagem e Manutenção de Computadores</td> 
   <td> CSS3</td>
-  <td> JDBC</td>
+  <td> Orientação a Objeto</td>
   <td> Android</td>
  </tr>  
     
  <tr>  
   <td> Redes de Computadores</td> 
   <td> JavaScript</td> 
-  <td> Orientação a Objeto</td>
+  <td> JDBC</td>
   <td> Frameworks Java</td>
  </tr>   
+  
+ <tr> 
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  
+ </tr> 
  </table>  
  
  <table border = "5">
@@ -38,7 +46,7 @@
     <td>📚Estudando Atualmente</td>
     <td>📆Projetos em Andamento</td>
     <td>🏆Sobre Mim</td>
-    <td> </td>
+    <td>🥇Sistema Operacionais</td>
     <td> </td>
     <td> </td>
   </tr>
@@ -47,18 +55,24 @@
     <td>Desenvolvimento Web</td>
     <td>Proedev.com </td>
     <td>Graduando em Eng. da Computação </td>
+    <td>Windows </td>
+    <td> </td>
   </tr>
   
   <tr> 
     <td>Wordpress</td>
     <td>Criação de Sites </td>
     <td>Pós Graduando em Eng. de Software</td>
+    <td>Ubuntu </td>
+    <td> </td>
   </tr>
   
   <tr>
     <td> Bootstrap</td>
     <td> Serviços Web</td>
     <td> Bancos de Dados Relacionais</td>
+    <td> Debian</td>
+    <td> </td>
   </tr>
   
   
