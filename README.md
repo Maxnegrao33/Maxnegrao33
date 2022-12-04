@@ -7,6 +7,7 @@
     <td>🛠Habilidades Técnicas</td>
     <td>💻Desenvolvimento Front-End</td>
     <td>🖥Desenvolvimento Back-End </td>
+    <td>📱Mobile</td> 
     <td>📚Estudando Atualmente</td>
     <td>📆Projetos em Andamento</td>
     <td>🏆Sobre Mim</td>
