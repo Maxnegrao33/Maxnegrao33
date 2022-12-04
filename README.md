@@ -1,4 +1,4 @@
-<h1 align="center"><b> Olá! Eu sou o Maciel Oliveira </b></h1>
+<h1 align="center"><b> Olá! Maciel Oliveira </b></h1>
 <h4 align="center"><b>Estudando para ser um <strong>Full Stack Developer!! </strong></b></h4>
 <hr>
 
@@ -36,16 +36,16 @@
    
  <table border = "5">
   <tr>
-    <td>📚Estudando Atualmente</td>
-    <td>📆Projetos em Andamento</td>
-    <td>📱Mobile (Estudando)</td>
+    <td>📚 Foco de Estudo</td>
+    <td>📆 Projetos em Andamento</td>
+    <td>📱 Mobile (Estudando)</td>
     <td>🥇</td>
   </tr>
   
   <tr> 
     <td>Desenvolvimento Web</td>
     <td>Proedev.com </td>
-    <td> Java</td>
+    <td>Java</td>
   </tr>
   
   <tr> 
