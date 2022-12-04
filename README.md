@@ -1,18 +1,19 @@
 <h1 align="center"><b> Olá! Eu sou o Maciel Oliveira </b></h1>
 <h4 align="center"><b>Estudando para ser um <strong>Full Stack Developer!! </strong></b></h4>
+<hr>
 
 <table border="5"> 
 <tr>
   #Skills:
-    <td>🏆Sobre Mim</td>
-    <td>🛠Habilidades Técnicas</td>
-    <td>💻Desenvolvimento Front-End</td>
-    <td>🖥Desenvolvimento Back-End </td>
+    <td>🏆 Sobre Mim</td>
+    <td>🛠 Habilidades Técnicas</td>
+    <td>💻 Front-End (Estudando)</td>
+    <td>🖥 Back-End (Estudando)</td>
     
   </tr>
  
 <tr>  
-  <td>Graduando em Eng. da Computação </td>
+  <td> Graduando em Eng. da Computação </td>
   <td> Técnico de Informática</td>
   <td> HTML5</td> 
   <td> Java</td>
@@ -21,7 +22,7 @@
 </tr>
     
  <tr>   
-  <td>Pós Graduando em Eng. de Software</td>
+  <td> Pós Graduando em Eng. de Software</td>
   <td> Montagem e Manutenção de Computadores</td> 
   <td> CSS3</td>
   <td> Orientação a Objeto</td>
@@ -41,8 +42,8 @@
   <td> </td>
   <td> </td>
   <td> </td>
-  
- </tr> 
+   </tr> 
+  <hr>
  </table>  
  
  <table border = "5">
@@ -50,7 +51,7 @@
     <td>📚Estudando Atualmente</td>
     <td>📆Projetos em Andamento</td>
     <td>📱Mobile (Estudando)</td>
-    <td>🥇Sistema Operacionais</td>
+    <td>🥇</td>
     <td> </td>
     <td> </td>
   </tr>
@@ -59,7 +60,7 @@
     <td>Desenvolvimento Web</td>
     <td>Proedev.com </td>
     <td> Java</td>
-    <td>Windows </td>
+    <td> </td>
     
     <td> </td>
   </tr>
@@ -68,7 +69,7 @@
     <td>Wordpress</td>
     <td>Criação de Sites </td>
     <td>Android</td>
-    <td>Ubuntu </td>
+    <td> </td>
     
     <td> </td>
   </tr>
@@ -77,13 +78,9 @@
     <td> Bootstrap</td>
     <td> Serviços Web</td>
     <td> Frameworks Java</td>
-    <td> Debian</td>
+    <td> </td>
     <td> </td>
   </tr>
-  
-  
-  
-  
   </table>
    
  
