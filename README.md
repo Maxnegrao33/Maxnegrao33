@@ -14,7 +14,7 @@
   <td> Técnico de Informática</td>
   <td> HTML5</td> 
   <td> Java</td>
-  <td> </td>
+  <td> Java</td>
   
 </tr>
     
@@ -22,14 +22,14 @@
   <td> Montagem e Manutenção de Computadores</td> 
   <td> CSS3</td>
   <td> JDBC</td>
-  <td> </td>
+  <td> Android</td>
  </tr>  
     
  <tr>  
   <td> Redes de Computadores</td> 
   <td> JavaScript</td> 
+  <td> Orientação a Objeto</td>
   <td> Frameworks Java</td>
-  <td> </td>
  </tr>   
  </table>  
  
