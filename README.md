@@ -9,7 +9,6 @@
     <td>🛠 Habilidades Técnicas</td>
     <td>💻 Front-End (Estudando)</td>
     <td>🖥 Back-End (Estudando)</td>
-    
   </tr>
  
 <tr>  
@@ -17,8 +16,6 @@
   <td> Técnico de Informática</td>
   <td> HTML5</td> 
   <td> Java</td>
- 
-  
 </tr>
     
  <tr>   
@@ -26,7 +23,6 @@
   <td> Montagem e Manutenção de Computadores</td> 
   <td> CSS3</td>
   <td> Orientação a Objeto</td>
-  
  </tr>  
     
  <tr>  
@@ -34,18 +30,10 @@
   <td> Redes de Computadores</td> 
   <td> JavaScript</td> 
   <td> JDBC</td>
-  
  </tr>   
-  
- <tr> 
-  <td> </td>
-  <td> </td>
-  <td> </td>
-  <td> </td>
-   </tr> 
-  <hr>
  </table>  
- 
+   <hr>
+   
  <table border = "5">
   <tr>
     <td>📚Estudando Atualmente</td>
