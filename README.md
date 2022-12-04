@@ -3,8 +3,8 @@
 <hr>
 
 <table border="5"> 
-<tr>
-  #Skills:
+ #Skills:
+  <tr>
     <td>🏆 Sobre Mim</td>
     <td>🛠 Habilidades Técnicas</td>
     <td>💻 Front-End (Estudando)</td>
@@ -40,34 +40,24 @@
     <td>📆Projetos em Andamento</td>
     <td>📱Mobile (Estudando)</td>
     <td>🥇</td>
-    <td> </td>
-    <td> </td>
   </tr>
   
   <tr> 
     <td>Desenvolvimento Web</td>
     <td>Proedev.com </td>
     <td> Java</td>
-    <td> </td>
-    
-    <td> </td>
   </tr>
   
   <tr> 
     <td>Wordpress</td>
     <td>Criação de Sites </td>
     <td>Android</td>
-    <td> </td>
-    
-    <td> </td>
   </tr>
   
   <tr>
     <td> Bootstrap</td>
     <td> Serviços Web</td>
     <td> Frameworks Java</td>
-    <td> </td>
-    <td> </td>
   </tr>
   </table>
    
