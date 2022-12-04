@@ -7,10 +7,7 @@
     <td>🛠Habilidades Técnicas</td>
     <td>💻Desenvolvimento Front-End</td>
     <td>🖥Desenvolvimento Back-End </td>
-    <td>📱Mobile</td> 
-    <td>📚Estudando Atualmente</td>
-    <td>📆Projetos em Andamento</td>
-    <td>🏆Sobre Mim</td>
+    <td>📱Mobile</td>
   </tr>
  
 <tr>  
@@ -18,8 +15,6 @@
   <td> HTML5</td> 
   <td> Java</td>
   <td> Desenvolvimento Web</td>
-  <td> Proedev.com</td>
-  <td> Graduando em Eng. da Computação </td>
 </tr>
     
  <tr>   
@@ -27,8 +22,6 @@
   <td> CSS3</td>
   <td> JDBC</td>
   <td> Wordpress</td>
-  <td> Criação de Sites</td>
-  <td> Pós Graduando em Eng. de Software</td>
  </tr>  
     
  <tr>  
@@ -36,21 +29,35 @@
   <td> JavaScript</td> 
   <td> Frameworks Java</td>
   <td> Bootstrap</td>
+   
   <td> Serviços Web</td>
   <td> Bancos de Dados Relacionais</td>
  </tr>   
-  
-  <tr>
-    <td> </td>
-    <td> </td>
-    <td> </td>
+ </table>  
+ 
+ <table>
+ 
+ <tr>
+    <td>📚Estudando Atualmente</td>
+    <td>📆Projetos em Andamento</td>
+    <td>🏆Sobre Mim</td>
     <td> </td>
     <td> </td>
     <td> </td>
   </tr>
   
+  <tr> 
+    <td> Proedev.com</td>
+    <td> Graduando em Eng. da Computação </td>
+  </tr>
   
- </table>    
+  <tr> 
+    <td> Criação de Sites</td>
+    <td> Pós Graduando em Eng. de Software</td>
+  </tr>
+  
+  </table>
+   
  
  
 <div align="center">
