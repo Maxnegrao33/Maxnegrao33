@@ -73,12 +73,12 @@
  #Conhecimento das Tecnologias<br>
  <table border = "5">
   <td><img align="center" alt="Max-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML</td>
-  <td><img align="center" alt="Max-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
-  <td><img align="center" alt="Max-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></td>
-  <td><img align="center" alt="Max-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"></td>
-  <td><img align="center" alt="Max-Data" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></td>
-  <td><img align="center" alt="Max-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></td>
-  <td><img align="center" alt="Max-Wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"></td>
+  <td><img align="center" alt="Max-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS</td>
+  <td><img align="center" alt="Max-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">JavaScript</td>
+  <td><img align="center" alt="Max-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">Java</td>
+  <td><img align="center" alt="Max-Data" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">Banco de Dados</td>
+  <td><img align="center" alt="Max-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">VS Code</td>
+  <td><img align="center" alt="Max-Wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">Wordpress</td>
   <td><img align="center" alt="Max-Bp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></td>
  </table>
 
