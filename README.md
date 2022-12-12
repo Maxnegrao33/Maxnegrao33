@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=OLá,+meu+nome+é+Maciel+Oliveira;I'm+from+Brazil;Sou+Técnico+de+Informática;Estudo+Engenharia+de+Computação;Engenharia+de+Software;Banco+de+Dados;e+Programação+(Front+-+Back+End);Minha+Meta+:+Ser+Full+-+Stack+Developer;+Bem+Vindo+ao+meu+Perfil!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=OLá,+meu+nome+é+Maciel+Oliveira;I'm+from+Brazil;Sou+Técnico+de+Informática;Estudo+Engenharia+de+Computação;Engenharia+de+Software;Banco+de+Dados;e+Programação+(Front+-+Back+End);Minha+Meta+:+Ser+Full+-+Stack+Developer;+Bem+Vindo+ao+meu+Perfil!!!+)](https://git.io/typing-svg)
 
 <hr>
 
@@ -107,10 +107,12 @@
   </table>                                                                          
 </div>
  
-  ##
+ <hr>
  
 <div> 
-#Redes Sociais<br>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Minha+Redes+Sociais+!!!)](https://git.io/typing-svg)
+ 
   <a href="https://www.youtube.com/channel/UCBP2S6FzUxrxG1n2hL2L_8g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/maxmannus3cb/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href = "mailto:estrategistaa01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -138,7 +140,8 @@
   <input type="text">
  </label> 
 </div>
-    
+  
+ <hr>
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Obrigado+pela+sua+Visita+!!!)](https://git.io/typing-svg)
  
