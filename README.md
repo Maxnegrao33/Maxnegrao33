@@ -1,5 +1,6 @@
 <h1 align="center"><b> Olá! Maciel Oliveira </b></h1>
-<h4 align="center"><b>Estudando para ser um <strong>Full Stack Developer!! </strong></b></h4>
+<h4 align="center"><b>Um eterno aprendiz<strong>da Tecnologia!! </strong></b></h4>
+> Meta: Full Stack Developer🎯
 <hr>
 
 <table border="5"> 
@@ -13,7 +14,7 @@
  
 <tr>  
   <td> Graduando em Eng. da Computação </td>
-  <td> Técnico de Informática</td>
+  <td> Técnico de Informática (Hardware)</td>
   <td> HTML5</td> 
   <td> Java</td>
 </tr>
