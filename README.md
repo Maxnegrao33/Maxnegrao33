@@ -41,25 +41,28 @@
     <td>📚 Foco de Estudo</td>
     <td>📆 Projetos em Andamento</td>
     <td>📱 Mobile (Estudando)</td>
-    <td>🥇</td>
+    <td>🥇 Idiomas</td>
   </tr>
   
   <tr> 
     <td>Desenvolvimento Web</td>
     <td>Proedev.com </td>
     <td>Java</td>
+    <td>Português do Brasil (nativo)</td>
   </tr>
   
   <tr> 
     <td>Wordpress</td>
     <td>Criação de Sites </td>
     <td>Android</td>
+    <td> Inglês (intermediário)</>
   </tr>
   
   <tr>
     <td> Bootstrap</td>
     <td> Serviços Web</td>
     <td> Frameworks Java</td>
+    <td> Espanhol (intermediário)</td>
   </tr>
   </table>
    
