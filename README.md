@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=OLá,+meu+nome+é+Maciel+Oliveira;I'm+from+Brazil;Sou+Técnico+de+Informática;Estudo+Engenharia+de+Computação;Engenharia+de+Software;e+Programação+(Front+-+Back+End);Bem+Vindo+ao+meu+Perfil!+)](https://git.io/typing-svg)
-> Meta: Full Stack Developer🎯
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=OLá,+meu+nome+é+Maciel+Oliveira;I'm+from+Brazil;Sou+Técnico+de+Informática;Estudo+Engenharia+de+Computação;Engenharia+de+Software;Banco+de+Dados;e+Programação+(Front+-+Back+End);Minha+Meta+:+Ser+Full+-+Stack+Developer;+Bem+Vindo+ao+meu+Perfil!+)](https://git.io/typing-svg)
+
 <hr>
 
 <table border="5"> 
@@ -63,7 +63,7 @@
   </tr>
   </table>
    
- 
+ <hr>
 
  
 <div align="center">
@@ -73,7 +73,10 @@
 </div>
 
 <div style="display: inline_block"><br>
- #Conhecimento das Tecnologias<br>
+ <hr>
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Conhecimento+das+Tecnologias+!!!)](https://git.io/typing-svg)
+ 
  <table border = "5">
   <td><img align="center" alt="Max-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML</td>
   <td><img align="center" alt="Max-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS</td>
@@ -88,7 +91,9 @@
 </div>
 
  <div style="display: inline_block"><br>
- ## Estudos Futuros<br>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Projetos+de+Estudos+Futuros+!!!)](https://git.io/typing-svg)]
+  
  <table border = "5">
   <td><img align="center" alt="Max-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">TypeScript</td>
   <td><img align="center" alt="Max-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">React</td>
@@ -111,7 +116,10 @@
  	<a href = "mailto:estrategistaa01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/macieloliveira-estrategista/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.facebook.com/maciel33oliveira" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
-  
+<hr>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Contribuições+de+Códigos+!!!)](https://git.io/typing-svg)]
+ 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=maxnegrao33&bg_color=1e1a1c&color=ffffff&line=23297b&point=f8f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
@@ -131,7 +139,9 @@
  </label> 
 </div>
     
-    
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Obrigado+pela+sua+Visita+!!!)](https://git.io/typing-svg)
+ 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>    
 
  
