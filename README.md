@@ -1,35 +1,35 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=OLá,+meu+nome+é+Maciel+Oliveira;I'm+from+Brazil;Sou+Técnico+de+Informática;Estudo+Engenharia+de+Computação;Engenharia+de+Software;Banco+de+Dados;e+Programação+(Front+-+Back+End);Minha+Meta+:+Ser+Full+-+Stack+Developer;+Bem+Vindo+ao+meu+Perfil!!!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Maciel+Oliveira;I'm+from+Brazil;I'm+Computer+Technician;Study+Computer+Engineering;Post+Graduate+Degree+in+Software+Engineering;Study+Database;and+Programming+(Front+-+Back+End);My+Goal+:+To+be+Full+-+Stack+Developer;+Welcome+to+my+Profile!!!+)](https://git.io/typing-svg)
 
 <hr>
 
 <table border="5"> 
  #Skills:
   <tr>
-    <td>🏆 Sobre Mim</td>
-    <td>🛠 Habilidades Técnicas</td>
-    <td>💻 Front-End (Estudando)</td>
-    <td>🖥 Back-End (Estudando)</td>
+    <td>🏆 About Me</td>
+    <td>🛠 Technical Abilitess</td>
+    <td>💻 Front-End (Studying)</td>
+    <td>🖥 Back-End (Studying)</td>
   </tr>
  
 <tr>  
-  <td> Graduando em Eng. da Computação </td>
-  <td> Técnico de Informática (Hardware)</td>
+  <td> Graduating in Computer Engineering</td>
+  <td> Computer Technician (Hardware)</td>
   <td> HTML5</td> 
   <td> Java</td>
 </tr>
     
  <tr>   
-  <td> Pós Graduando em Eng. de Software</td>
-  <td> Montagem e Manutenção de Computadores</td> 
+  <td> Post Graduate in Software Engineering</td>
+  <td> Assembly and Maintenance of Computers</td> 
   <td> CSS3</td>
-  <td> Orientação a Objeto</td>
+  <td> Object orientation</td>
  </tr>  
     
  <tr>  
-  <td> Bancos de Dados Relacionais</td>
-  <td> Redes de Computadores</td> 
+  <td> Relational Databases</td>
+  <td> Computers Networks</td> 
   <td> JavaScript</td> 
   <td> JDBC</td>
  </tr>   
