@@ -40,7 +40,7 @@
   <tr>
     <td>📚 Study Focus</td>
     <td>📆 Ongoing Projects</td>
-    <td>📱 Mobile (Estudando)</td>
+    <td>📱 Mobile (Studying)</td>
     <td>🥇 Languages</td>
   </tr>
   
