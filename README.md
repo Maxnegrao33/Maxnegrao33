@@ -38,31 +38,31 @@
    
  <table border = "5">
   <tr>
-    <td>📚 Foco de Estudo</td>
-    <td>📆 Projetos em Andamento</td>
+    <td>📚 Study Focus</td>
+    <td>📆 Ongoing Projects</td>
     <td>📱 Mobile (Estudando)</td>
-    <td>🥇 Idiomas</td>
+    <td>🥇 Languages</td>
   </tr>
   
   <tr> 
-    <td>Desenvolvimento Web</td>
-    <td>Proedev.com </td>
-    <td>Java</td>
-    <td>Português do Brasil (nativo)</td>
+    <td> Web Developer</td>
+    <td> Proedev.com </td>
+    <td> Java</td>
+    <td> Brazilian Portuguese (native)</td>
   </tr>
   
   <tr> 
-    <td>Wordpress</td>
-    <td>Criação de Sites </td>
+    <td> Wordpress</td>
+    <td> Websites Creation</td>
     <td>Android</td>
-    <td> Inglês (intermediário)</>
+    <td> English (intermediary)</>
   </tr>
   
   <tr>
     <td> Bootstrap</td>
-    <td> Serviços Web</td>
+    <td> Web services</td>
     <td> Frameworks Java</td>
-    <td> Espanhol (intermediário)</td>
+    <td> Spanish (intermediary)</td>
   </tr>
   </table>
    
@@ -78,7 +78,7 @@
 <div style="display: inline_block"><br>
  <hr>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Conhecimento+das+Tecnologias+!!!)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Knowledge+of+Tecnologies+!!!)](https://git.io/typing-svg)
  
  <table border = "5">
   <td><img align="center" alt="Max-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML</td>
@@ -95,7 +95,7 @@
 
  <div style="display: inline_block"><br>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Projetos+de+Estudos+Futuros+!!!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Future+Studies+Project+!!!)](https://git.io/typing-svg)
   
  <table border = "5">
   <td><img align="center" alt="Max-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">TypeScript</td>
@@ -114,7 +114,7 @@
  
 <div> 
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Minha+Redes+Sociais+!!!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=My+Social+Networks+!!!)](https://git.io/typing-svg)
  
   <a href="https://www.youtube.com/channel/UCBP2S6FzUxrxG1n2hL2L_8g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/maxmannus3cb/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -123,7 +123,7 @@
   <a href="https://www.facebook.com/maciel33oliveira" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
 <hr>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Contribuições+de+Códigos+!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Code+Contribuitions+!!!)](https://git.io/typing-svg)
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=maxnegrao33&bg_color=1e1a1c&color=ffffff&line=23297b&point=f8f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -146,7 +146,7 @@
   
  <hr>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Obrigado+pela+sua+Visita+!!!)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Thanks+for+your+Visit+!!!)](https://git.io/typing-svg)
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>    
 
