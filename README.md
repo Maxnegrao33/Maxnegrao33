@@ -5,7 +5,7 @@
 <hr>
 
 <table border="5"> 
- #Skills:
+ #Follow Me:
   <tr>
     <td>🏆 About Me</td>
     <td>🛠 Technical Abilitess</td>
