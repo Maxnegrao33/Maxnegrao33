@@ -146,6 +146,10 @@
   
  <hr>
 
+ ![Advaith's GitHub stats](https://github-readme-stats.vercel.app/api?username=advaithva&show_icons=true&theme=tokyonight&bg_color=000000)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=advaithva&layout=compact&langs_count=10&theme=highcontrast&text_color=aaaaff&title_color=ffaaaa)](https://github.com/advaithva/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=advaithva&theme=highcontrast&ring=4675b8)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=advaithva&theme=tokyonight&bg_color=000000)](https://github.com/advaithva/github-profile-trophy)
+ 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Thanks+for+your+Visit+!!!)](https://git.io/typing-svg)
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>    
