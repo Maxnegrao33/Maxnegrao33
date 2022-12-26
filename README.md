@@ -86,14 +86,14 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Knowledge+of+Tecnologies+!!!)](https://git.io/typing-svg)
  
  <table border = "5">
-  <td><img align="center" alt="Max-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML</td>
-  <td><img align="center" alt="Max-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS</td>
-  <td><img align="center" alt="Max-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">JavaScript</td>
-  <td><img align="center" alt="Max-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">Java</td>
-  <td><img align="center" alt="Max-Data" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">Relational Database</td>
-  <td><img align="center" alt="Max-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">VS Code</td>
-  <td><img align="center" alt="Max-Wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">Wordpress</td>
-  <td><img align="center" alt="Max-Bp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">Bootstrap</td>
+  <td align="center"><img align="center" alt="Max-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML</td>
+  <td align="center"><img align="center" alt="Max-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS</td>
+  <td align="center"><img align="center" alt="Max-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">JavaScript</td>
+  <td align="center"><img align="center" alt="Max-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">Java</td>
+  <td align="center"><img align="center" alt="Max-Data" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">Data Relational</td>
+  <td align="center"><img align="center" alt="Max-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">VS Code</td>
+  <td align="center"><img align="center" alt="Max-Wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">Wordpress</td>
+  <td align="center"><img align="center" alt="Max-Bp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">Bootstrap</td>
  </table>
 
 </div>
@@ -103,15 +103,15 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Future+Studies+Project+!!!)](https://git.io/typing-svg)
   
  <table border = "5">
-  <td><img align="center" alt="Max-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">TypeScript</td>
-  <td><img align="center" alt="Max-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">React</td>
-  <td><img align="center" alt="Max-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Python</td>
-  <td><img align="center" alt="Max-Ang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">Angular</td> 
-  <td> <img align="center" alt="Max-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">Node</td>
-  <td> <img align="center" alt="Max-Tail" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">Tailwind</td>    
-  <td> <img align="center" alt="Max-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg">Dart</td>          
-  <td><img align="center" alt="Max-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">Spring Ecosystem</td>              
-  <td><img align="center" alt="Max-Flut" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">Flutter</td>                
+  <td align="center"><img align="center" alt="Max-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">TypeScript</td>
+  <td align="center"><img align="center" alt="Max-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">React</td>
+  <td align="center"><img align="center" alt="Max-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Python</td>
+  <td align="center"><img align="center" alt="Max-Ang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">Angular</td> 
+  <td align="center"> <img align="center" alt="Max-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">Node</td>
+  <td align="center"> <img align="center" alt="Max-Tail" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">Tailwind</td>    
+  <td align="center"> <img align="center" alt="Max-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg">Dart</td>          
+  <td align="center"><img align="center" alt="Max-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">Spring Ecosystem</td>              
+  <td align="center"><img align="center" alt="Max-Flut" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">Flutter</td>                
   </table>                                                                          
 </div>
  
@@ -121,11 +121,11 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=My+Social+Networks+!!!)](https://git.io/typing-svg)
  
-  <a href="https://www.youtube.com/channel/UCBP2S6FzUxrxG1n2hL2L_8g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/maxmannus3cb/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href = "mailto:estrategistaa01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/macieloliveira-estrategista/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.facebook.com/maciel33oliveira" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+  <a href="https://www.youtube.com/channel/UCBP2S6FzUxrxG1n2hL2L_8g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" align="center"></a>
+  <a href="https://www.instagram.com/maxmannus3cb/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" align="center"></a>
+ 	<a href = "mailto:estrategistaa01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" align="center"></a>
+  <a href="https://www.linkedin.com/in/macieloliveira-estrategista/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"></a> 
+  <a href="https://www.facebook.com/maciel33oliveira" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" align="center"></a> 
 <hr>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Code+Contribuitions+!!!)](https://git.io/typing-svg)
