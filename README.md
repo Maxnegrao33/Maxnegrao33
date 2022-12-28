@@ -159,13 +159,13 @@ style="margin-bottom: -5px;"/> !</h1>
  
   <!--Redes Sociais - Socials Networks-->
 <div> 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=My+Social+Networks+!!!)](https://git.io/typing-svg)]
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=My+Social+Networks+!!!)](https://git.io/typing-svg)
   <!--YouTube-->
   <a href="https://www.youtube.com/channel/UCBP2S6FzUxrxG1n2hL2L_8g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" align="center"></a>
   <!--Instagram-->
  <a href="https://www.instagram.com/maxmannus3cb/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" align="center"></a>
   <!--Email-->	
- <a href = "mailto:estrategistaa01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" align="center"></a>
+ <a href = "mailto:estrategista01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" align="center"></a>
   <!--Linkedin--> 
  <a href="https://www.linkedin.com/in/macieloliveira-estrategista/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"></a> 
   <!--Facebook--> 
