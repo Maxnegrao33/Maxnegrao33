@@ -158,10 +158,11 @@ style="margin-bottom: -5px;"/> !</h1>
  <hr>
  
   <!--Redes Sociais - Socials Networks-->
-<div> 
+
  
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=My+Social+Networks+!!!)](https://git.io/typing-svg)
  
+ <div> 
   <!--YouTube-->
   <a href="https://www.youtube.com/channel/UCBP2S6FzUxrxG1n2hL2L_8g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" align="center"></a>
   <!--Instagram-->
