@@ -1,25 +1,28 @@
-<!--Imagem Inicial, Movimento Azul-->
+<!--Gif Inicial, Movimento Azul-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
+<!--Final do Gif Inicial-->
 
-<!--header-->
+<!--Header - Hello Everyone-->
 <h1 align="center">Hello, everyone.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" color="FFFFFF"
 style="margin-bottom: -5px;"/> !</h1>
-
+<!--End Hello Everyone-->
 
 <!--Faixa de Arco-Íris-->
  <p align="center">
   <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Rainbow.gif" width="100vw">
   </p>
-<!--header-->
+<!--Final da Faixa Animada-->  
+<!--Final do Header-->
 
-<!--Descrição de quem sou-->
+<!--Descrição de quem sou - Who Am I Description-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Maciel+Oliveira;I'm+from+Brazil;I'm+Computer+Technician;Study+Computer+Engineering;Study+Post+Graduate+Degree+in+Software+Engineering;Study+Database;and+Programming+(Front+-+Back+End);My+Goal+:+To+be+Full+-+Stack+Developer;+Welcome+to+my+Profile!!!+)](https://git.io/typing-svg)
-
+<!--Final da Descrição-->
 <hr>
 
 <!--Tabela Maior-->
 <table border="5"> 
- #Follow Me:
+ <h1 align="center">Follow me, Be my Friend.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" color="FFFFFF"
+style="margin-bottom: -5px;"/> !</h1>
   <tr>
     <td>🏆 About Me</td>
     <td>🛠 Technical Abilitess</td>
@@ -112,8 +115,8 @@ style="margin-bottom: -5px;"/> !</h1>
  <!--Knowledge of Technologies--> 
 <div style="display: inline_block"><br>
  <hr>
-
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Knowledge+of+Tecnologies+!!!)](https://git.io/typing-svg)
+ 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Knowledge+of+Tecnologies+!!!)](https://git.io/typing-svg)]
  
  <table border = "5">
   <td align="center"><img align="center" alt="Max-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML</td>
@@ -132,7 +135,8 @@ style="margin-bottom: -5px;"/> !</h1>
  
 <!--Projetos de Estudos Futuros - Future Studies Projects-->  
 <div style="display: inline_block"><br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Future+Studies+Project+!!!)](https://git.io/typing-svg)
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Future+Studies+Project+!!!)](https://git.io/typing-svg)]
  
  <!--Início da tabela e espessura da borda-->
  <!--Inicial table and width border-->
@@ -155,7 +159,7 @@ style="margin-bottom: -5px;"/> !</h1>
  
   <!--Redes Sociais - Socials Networks-->
 <div> 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=My+Social+Networks+!!!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=My+Social+Networks+!!!)](https://git.io/typing-svg)]
   <!--YouTube-->
   <a href="https://www.youtube.com/channel/UCBP2S6FzUxrxG1n2hL2L_8g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" align="center"></a>
   <!--Instagram-->
