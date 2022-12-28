@@ -1,6 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Maciel+Oliveira;I'm+from+Brazil;I'm+Computer+Technician;Study+Computer+Engineering;Study+Post+Graduate+Degree+in+Software+Engineering;Study+Database;and+Programming+(Front+-+Back+End);My+Goal+:+To+be+Full+-+Stack+Developer;+Welcome+to+my+Profile!!!+)](https://git.io/typing-svg)
+<!--header-->
+<h1 align="center">Hello, everyone.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" color="FFFFFF"
+style="margin-bottom: -5px;"/> !</h1>
+
+ <p align="center">
+  <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Rainbow.gif" width="100vw">
+  </p>
+<!--header-->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Maciel+Oliveira;I'm+from+Brazil;I'm+Computer+Technician;Study+Computer+Engineering;Study+Post+Graduate+Degree+in+Software+Engineering;Study+Database;and+Programming+(Front+-+Back+End);My+Goal+:+To+be+Full+-+Stack+Developer;+Welcome+to+my+Profile!!!+)](https://git.io/typing-svg)
 
 <hr>
 
@@ -76,10 +85,15 @@
    
  [![GitHub Streak](https://streak-stats.demolab.com/?user=maxnegrao33&theme=highcontrast&ring=4675b8)](https://git.io/streak-stats)  
  
-   <img align="center" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
+ <img align="center" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
    
  <img src="https://github-profile-trophy.vercel.app/?username=maxnegrao33&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-    
+  
+<a href="https://wakatime.com/@1d21237a-cb66-4f64-9a1a-c8e44a9c149b"><img src="https://wakatime.com/badge/user/1d21237a-cb66-4f64-9a1a-c8e44a9c149b.svg" alt="Total time coded since Jan 31 2019" /></a>
+</p>
+<img src="https://wakatime.com/share/@maxnegrao33/ee1cf0fd-42a8-45c7-97f3-d2df82dd18b4.svg"/>
+  
+  
 </div>
 
 <div style="display: inline_block"><br>
