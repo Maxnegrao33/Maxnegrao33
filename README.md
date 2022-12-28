@@ -1,18 +1,23 @@
+<!--Imagem Inicial, Movimento Azul-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
 
 <!--header-->
 <h1 align="center">Hello, everyone.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" color="FFFFFF"
 style="margin-bottom: -5px;"/> !</h1>
 
+
+<!--Faixa de Arco-Íris-->
  <p align="center">
   <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Rainbow.gif" width="100vw">
   </p>
 <!--header-->
 
+<!--Descrição de quem sou-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Maciel+Oliveira;I'm+from+Brazil;I'm+Computer+Technician;Study+Computer+Engineering;Study+Post+Graduate+Degree+in+Software+Engineering;Study+Database;and+Programming+(Front+-+Back+End);My+Goal+:+To+be+Full+-+Stack+Developer;+Welcome+to+my+Profile!!!+)](https://git.io/typing-svg)
 
 <hr>
 
+<!--Tabela Maior-->
 <table border="5"> 
  #Follow Me:
   <tr>
@@ -44,7 +49,10 @@ style="margin-bottom: -5px;"/> !</h1>
  </tr>   
  </table>  
    <hr>
-   
+ <!--Fim da Tabela Maior-->
+ 
+ 
+ <!--Tabela Menor ou de Baixo-->
  <table border = "5" align="center">
   <tr>
     <td>📚 Study Focus</td>
@@ -74,28 +82,34 @@ style="margin-bottom: -5px;"/> !</h1>
     <td> Spanish (intermediary)</td>
   </tr>
   </table>
-   
+  <!--Fim da Tabela Menor--> 
  <hr>
 
- 
+ <!--Contribuições-->
 <div align="center">
   <a href="https://github.com/Maxnegrao33">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxnegrao33&layout=compact&langs_count=7&theme=dark"/>
    
+ <!--Git Hub Stats -->  
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ 
+ <!--Most Used Languages-->
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxnegrao33&layout=compact&langs_count=7&theme=dark"/>
+  
+ <!--Projetos e Contribuições-->
  [![GitHub Streak](https://streak-stats.demolab.com/?user=maxnegrao33&theme=highcontrast&ring=4675b8)](https://git.io/streak-stats)  
  
+ <!--Gif Digitando-->  
  <img align="center" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
-   
+ 
+ <!--Imagens Troféus-->  
  <img src="https://github-profile-trophy.vercel.app/?username=maxnegrao33&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
   
-<a href="https://wakatime.com/@1d21237a-cb66-4f64-9a1a-c8e44a9c149b"><img src="https://wakatime.com/badge/user/1d21237a-cb66-4f64-9a1a-c8e44a9c149b.svg" alt="Total time coded since Jan 31 2019" /></a>
-</p>
+
 <img src="https://wakatime.com/share/@maxnegrao33/ee1cf0fd-42a8-45c7-97f3-d2df82dd18b4.svg"/>
-  
-  
+   
 </div>
 
+ <!--Knowledge of Technologies--> 
 <div style="display: inline_block"><br>
  <hr>
 
@@ -113,11 +127,15 @@ style="margin-bottom: -5px;"/> !</h1>
  </table>
 
 </div>
+<!--Final Knowledge-->
 
- <div style="display: inline_block"><br>
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Future+Studies+Project+!!!)](https://git.io/typing-svg)
-  
+ 
+<!--Projetos de Estudos Futuros - Future Studies Projects-->  
+<div style="display: inline_block"><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Future+Studies+Project+!!!)](https://git.io/typing-svg)
+ 
+ <!--Início da tabela e espessura da borda-->
+ <!--Inicial table and width border-->
  <table border = "5">
   <td align="center"><img align="center" alt="Max-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">TypeScript</td>
   <td align="center"><img align="center" alt="Max-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">React</td>
@@ -128,32 +146,40 @@ style="margin-bottom: -5px;"/> !</h1>
   <td align="center"> <img align="center" alt="Max-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg">Dart</td>          
   <td align="center"><img align="center" alt="Max-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">Spring Ecosystem</td>              
   <td align="center"><img align="center" alt="Max-Flut" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">Flutter</td>                
-  </table>                                                                          
+  </table>   
+ <!--Final da Tabela - End table-->
 </div>
+ <!--Final Projeto de Estudos Futuros-->
  
  <hr>
  
+  <!--Redes Sociais - Socials Networks-->
 <div> 
-
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=My+Social+Networks+!!!)](https://git.io/typing-svg)
- 
+  <!--YouTube-->
   <a href="https://www.youtube.com/channel/UCBP2S6FzUxrxG1n2hL2L_8g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" align="center"></a>
-  <a href="https://www.instagram.com/maxmannus3cb/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" align="center"></a>
- 	<a href = "mailto:estrategistaa01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" align="center"></a>
-  <a href="https://www.linkedin.com/in/macieloliveira-estrategista/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"></a> 
-  <a href="https://www.facebook.com/maciel33oliveira" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" align="center"></a> 
+  <!--Instagram-->
+ <a href="https://www.instagram.com/maxmannus3cb/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" align="center"></a>
+  <!--Email-->	
+ <a href = "mailto:estrategistaa01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" align="center"></a>
+  <!--Linkedin--> 
+ <a href="https://www.linkedin.com/in/macieloliveira-estrategista/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"></a> 
+  <!--Facebook--> 
+ <a href="https://www.facebook.com/maciel33oliveira" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" align="center"></a> 
 <hr>
+ <!--End Socials Networks--> 
  
+ <!--Gráfico Contribuições de Código - Graphic Code Constribuitions-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Code+Contribuitions+!!!)](https://git.io/typing-svg)
- 
- 
- 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=maxnegrao33&bg_color=1e1a1c&color=ffffff&line=23297b&point=f8f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<!--End Code Contribuition-->
  
+ 
+<!--Gráfico da Cobrinha - Snake Animation Graphic-->
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<!--Final do Gráfico da Cobrinha--> 
+ 
+ <!--Visitas - Visitors Count-->
  <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{maxnegrao33}/count.svg" /></p> 
@@ -164,11 +190,15 @@ style="margin-bottom: -5px;"/> !</h1>
   <input type="text">
  </label> 
 </div>
-  
+<!--Final do Contador de Visitas - End to Visitors Count-->
+ 
  <hr>
 
+ <!--Agradecimento pela Visita - Thanks for your Visit-->
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Thanks+for+your+Visit+!!!)](https://git.io/typing-svg)
+<!--Final do Agradecimento-->
  
+ <!--Gif Final - End Gif-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>    
 
  
