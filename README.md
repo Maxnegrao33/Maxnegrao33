@@ -26,9 +26,10 @@ style="margin-bottom: -5px;"/> !</h1>
 
 
 <!--Tabela Maior-->
-<table border="5"  cellspacing="15" cellpadding="15"> 
+<table border="5"> 
  <h1 align="center">Follow me, Be my Friend.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" color="FFFFFF"
 style="margin-bottom: -5px;"/> !</h1>
+ 
   <tr>
     <td>🏆 About Me</td>
     <td>🛠 Technical Abilitess</td>
