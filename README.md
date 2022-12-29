@@ -17,7 +17,13 @@ style="margin-bottom: -5px;"/> !</h1>
 <!--Descrição de quem sou - Who Am I Description-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Maciel+Oliveira;I'm+from+Brazil;I'm+Computer+Technician;Study+Computer+Engineering;Study+Post+Graduate+Degree+in+Software+Engineering;Study+Database;and+Programming+(Front+-+Back+End);My+Goal+:+To+be+Full+-+Stack+Developer;+Welcome+to+my+Profile!!!+)](https://git.io/typing-svg)
 <!--Final da Descrição-->
-<hr>
+
+<!--Faixa de Arco-Íris-->
+ <p align="center">
+  <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Rainbow.gif" width="100vw">
+  </p>
+<!--Final da Faixa Animada-->  
+
 
 <!--Tabela Maior-->
 <table border="5"> 
@@ -51,7 +57,7 @@ style="margin-bottom: -5px;"/> !</h1>
   <td> JDBC</td>
  </tr>   
  </table>  
-   <hr>
+   
  <!--Fim da Tabela Maior-->
  
  
@@ -86,7 +92,12 @@ style="margin-bottom: -5px;"/> !</h1>
   </tr>
   </table>
   <!--Fim da Tabela Menor--> 
- <hr>
+ 
+ <!--Faixa de Arco-Íris-->
+ <p align="center">
+  <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Rainbow.gif" width="100vw">
+  </p>
+<!--Final da Faixa Animada-->  
 
  <!--Contribuições-->
 <div align="center">
@@ -101,9 +112,21 @@ style="margin-bottom: -5px;"/> !</h1>
  <!--Projetos e Contribuições-->
  [![GitHub Streak](https://streak-stats.demolab.com/?user=maxnegrao33&theme=highcontrast&ring=4675b8)](https://git.io/streak-stats)  
  
+ <!--Faixa de Arco-Íris-->
+ <p align="center">
+  <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Rainbow.gif" width="100vw">
+  </p>
+<!--Final da Faixa Animada-->  
+   
  <!--Gif Digitando-->  
  <img align="center" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
  
+ <!--Faixa de Arco-Íris-->
+ <p align="center">
+  <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Rainbow.gif" width="100vw">
+  </p>
+<!--Final da Faixa Animada-->  
+   
  <!--Imagens Troféus-->  
  <img src="https://github-profile-trophy.vercel.app/?username=maxnegrao33&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
   
@@ -114,6 +137,7 @@ style="margin-bottom: -5px;"/> !</h1>
 
  <!--Knowledge of Technologies--> 
 <div style="display: inline_block"><br>
+ 
  <hr>
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Knowledge+of+Tecnologies+!!!)](https://git.io/typing-svg)
@@ -136,7 +160,7 @@ style="margin-bottom: -5px;"/> !</h1>
 <!--Projetos de Estudos Futuros - Future Studies Projects-->  
 <div style="display: inline_block"><br>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Future+Studies+Project+!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Future+Studies+Projects+!!!)](https://git.io/typing-svg)
  
  <!--Início da tabela e espessura da borda-->
  <!--Inicial table and width border-->
@@ -175,6 +199,12 @@ style="margin-bottom: -5px;"/> !</h1>
  <a href="https://www.facebook.com/maciel33oliveira" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" align="center"></a> 
 <hr>
  <!--End Socials Networks--> 
+  
+<!--Faixa de Arco-Íris-->
+ <p align="center">
+  <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Rainbow.gif" width="100vw">
+  </p>
+<!--Final da Faixa Animada-->  
  
  <!--Gráfico Contribuições de Código - Graphic Code Constribuitions-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Code+Contribuitions+!!!)](https://git.io/typing-svg)
@@ -199,7 +229,11 @@ style="margin-bottom: -5px;"/> !</h1>
 </div>
 <!--Final do Contador de Visitas - End to Visitors Count-->
  
- <hr>
+ <!--Faixa de Arco-Íris-->
+ <p align="center">
+  <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Rainbow.gif" width="100vw">
+  </p>
+<!--Final da Faixa Animada-->  
 
  <!--Agradecimento pela Visita - Thanks for your Visit-->
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Thanks+for+your+Visit+!!!)](https://git.io/typing-svg)
