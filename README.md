@@ -30,6 +30,7 @@ style="margin-bottom: -5px;"/> !</h1>
  <h1 align="center">Follow me, Be my Friend.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" color="FFFFFF"
 style="margin-bottom: -5px;"/> !</h1>
  
+ <tbody>
   <tr>
     <th>🏆 About Me</th>
     <td>🛠 Technical Abilitess</td>
@@ -58,8 +59,9 @@ style="margin-bottom: -5px;"/> !</h1>
   <td> JDBC</td>
  </tr>   
  </table>  
-   
+ </tbody>  
  <!--Fim da Tabela Maior-->
+ 
  <br>
  
  <!--Tabela Menor ou de Baixo-->
