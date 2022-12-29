@@ -31,7 +31,7 @@ style="margin-bottom: -5px;"/> !</h1>
 style="margin-bottom: -5px;"/> !</h1>
  
   <tr>
-    <td>🏆 About Me</td>
+    <th>🏆 About Me</th>
     <td>🛠 Technical Abilitess</td>
     <td>💻 Front-End (Studying)</td>
     <td>🖥 Back-End (Studying)</td>
@@ -60,13 +60,13 @@ style="margin-bottom: -5px;"/> !</h1>
  </table>  
    
  <!--Fim da Tabela Maior-->
- 
+ <br>
  
  <!--Tabela Menor ou de Baixo-->
  <table border = "5" align="center">
   <tr>
-    <td>📚 Study Focus</td>
-    <td>📆 Ongoing Projects</td>
+   <th> <strong>📚 Study Focus</th> </strong>
+    <th>📆 Ongoing Projects</td>
     <td>📱 Mobile (Studying)</td>
     <td>🥇 Languages</td>
   </tr>
