@@ -58,8 +58,9 @@ style="margin-bottom: -5px;"/> !</h1>
   <td> JavaScript</td> 
   <td> JDBC</td>
  </tr>   
+ 
+ </tbody> 
  </table>  
- </tbody>  
  <!--Fim da Tabela Maior-->
  
  <br>
