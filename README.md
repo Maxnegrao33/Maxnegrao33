@@ -200,7 +200,7 @@ style="margin-bottom: -5px;"/> !</h1>
   <!--Linkedin--> 
  <a href="https://www.linkedin.com/in/macieloliveira-estrategista/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"></a> 
   <!--Facebook--> 
- <a href="https://www.facebook.com/maciel33oliveira" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" align="center"></a> 
+ <!--a href="https://www.facebook.com/maciel33oliveira" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" align="center"></a>-->
 <hr>
  <!--End Socials Networks--> 
   
