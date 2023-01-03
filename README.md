@@ -107,11 +107,15 @@ style="margin-bottom: -5px;"/> !</h1>
 <div align="center">
   <a href="https://github.com/Maxnegrao33">
    
- <!--Git Hub Stats -->  
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <!--Most Used Languages--> 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxnegrao33&hide=flutter,go)](https://github.com/anuraghazra/github-readme-stats)
  
- <!--Most Used Languages-->
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxnegrao33&layout=compact&langs_count=7&theme=dark"/>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxnegrao33&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ <!--Git Hub Stats --> 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true&bg_color=00000000)
+  
+
   
  <!--Projetos e Contribuições-->
  [![GitHub Streak](https://streak-stats.demolab.com/?user=maxnegrao33&theme=highcontrast&ring=4675b8)](https://git.io/streak-stats)  
