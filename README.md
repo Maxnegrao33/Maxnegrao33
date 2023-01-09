@@ -89,13 +89,13 @@ style="margin-bottom: -5px;"/> !</h1>
   <tr> 
     <td> Wordpress</td>
     <td> Websites Creation</td>
-    <td>Android</td>
+    <td> Android</td>
     <td> English (intermediary)</>
   </tr>
   
   <tr>
     <td> Bootstrap</td>
-    <td> Web services</td>
+    <td> Web Services</td>
     <td> Frameworks Java</td>
     <td> Spanish (intermediary)</td>
   </tr>
