@@ -112,11 +112,37 @@ style="margin-bottom: -5px;"/> !</h1>
 <div align="center">
   <a href="https://github.com/Maxnegrao33">
    
- <!--Most Used Languages--> 
- 
+ <!--Structures Front and Back End--> 
+```mermaid
+graph TD;
+    Front-End-->HTML5;
+    Front-End-->CSS3;
+    Front-End-->JavaScript;
+    Front-End-->Angular;
+    Front-End-->React;
+    Front-End-->XML;
+    Front-End-->JSON;
+    Front-End-->Vue;
+    Front-End-->TypeScript;
+
+    Back-End-->Java
+    Back-End-->JavaEE
+    Back-End-->Spring
+    
+   
+    SQL-->MySQL
+   
+   ```
+   
+   <!--Faixa de Arco-Íris-->
+ <p align="center">
+  <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Rainbow.gif" width="100vw">
+  </p>
+<!--Final da Faixa Animada-->  
+<br>
    
    <!--Git Hub Stats --> 
- 
+ <codersrank-timeline username="maxnegrao33" type="workexperience"></codersrank-timeline>
  
  
  
