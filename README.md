@@ -232,12 +232,17 @@ style="margin-bottom: -5px;"/> !</h1>
  
  <!--Visitas - Visitors Count-->
  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><h1 align="centre"><b>Visitors Count</b></h1>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{maxnegrao33}/count.svg" /></p> 
 <br>
-<!--Países Visitantes-->  
-Counting of Visitors to this page in this section started from Jan 1, 2019
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+  <!--Países Visitantes-->  
+
+ <table border="5"> 
+ <h1 align="center">Counting of Visitors to this page in this section started from Jan 12, 2023 </h1><!--<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" color="FFFFFF"
+style="margin-bottom: -5px;"/> !</h1> -->
+  <br><br>
+<a href="http://s01.flagcounter.com/more/X70"><img src="https://s01.flagcounter.com/count/X70/bg_000000/txt_FFFFFF/border_CCCCCC/columns_5/maxflags_50/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="5"></a>
 </div>
   
   
@@ -248,6 +253,8 @@ Counting of Visitors to this page in this section started from Jan 1, 2019
  </label> 
 </div>
 <!--Final do Contador de Visitas - End to Visitors Count-->
+ 
+ 
  
  <!--Faixa de Arco-Íris-->
  <p align="center">
@@ -269,9 +276,3 @@ Counting of Visitors to this page in this section started from Jan 1, 2019
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>    
 
  
-
-
-
-
-
-
