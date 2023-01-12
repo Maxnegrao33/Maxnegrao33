@@ -124,18 +124,27 @@ graph TD;
     Front-End-->JSON;
     Front-End-->Vue;
     Front-End-->TypeScript;
-
-    Back-End-->Java
-    Back-End-->JavaEE
-    Back-End-->Spring
-    Back-End-->JavaScript
-   
-    SQL-->MySQL
-    SQL-->NoSQL
-    Back-End-->NoSQL
-    Back-End-->MySQL
-   
+    Front-End-->WordPress;
+    Front-End-->Bootstrap;
+    Front-End-->JQuery;
    ```
+```mermaid
+graph TD;
+    Back-End-->JavaEE;
+    Back-End-->JavaSE;
+    Back-End-->SprBootMVC;
+    Back-End-->SprBootAPI-REST;
+    Back-End-->SprDATA-JPA;
+    Back-End-->Hibernate-JPA;
+    Back-End-->Spr-JDBC;
+    Back-End-->Spr-Security;
+    Back-End-->iReport;
+    SQL-->Spr-JDBC;
+    SQL-->Hibernate;
+    SQL-->SGBD;
+    Back-End-->SGBD;   
+   ```
+
    
    <!--Faixa de Arco-Íris-->
  <p align="center">
