@@ -113,19 +113,20 @@ style="margin-bottom: -5px;"/> !</h1>
   <a href="https://github.com/Maxnegrao33">
    
  <!--Most Used Languages--> 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxnegrao33&hide=flutter,go)](https://github.com/anuraghazra/github-readme-stats)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxnegrao33&layout=compact)](https://github.com/maxnegrao33/github-readme-stats)
- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maxnegrao33&repo=github-readme-stats)](https://github.com/maxnegrao33/github-readme-stats)
    
    <!--Git Hub Stats --> 
+ <!--  2d history skills -->
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=maxnegrao33&skills=JavaScript,Java,HTML,CSS,React,Python,SQL" width="500px" height="100%"></img>
  
-  
+ 
+ 
  <!--Projetos e Contribuições-->
  [![GitHub Streak](https://streak-stats.demolab.com/?user=maxnegrao33&theme=highcontrast&ring=4675b8)](https://git.io/streak-stats)  
  
- <!--Faixa de Arco-Íris-->
+
+
+<!--Faixa de Arco-Íris-->
  <p align="center">
   <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Rainbow.gif" width="100vw">
   </p>
@@ -234,10 +235,13 @@ style="margin-bottom: -5px;"/> !</h1>
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{maxnegrao33}/count.svg" /></p> 
 <br>
+<!--Países Visitantes-->  
+Counting of Visitors to this page in this section started from Jan 1, 2019
+<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 </div>
   
-counting of visitors to this page in this section started from May 8, 2022
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+  
+
  
  <label for="text">
   <input type="text">
@@ -251,7 +255,10 @@ counting of visitors to this page in this section started from May 8, 2022
   </p>
 <!--Final da Faixa Animada-->  
 
- <!--Agradecimento pela Visita - Thanks for your Visit-->
+
+
+
+<!--Agradecimento pela Visita - Thanks for your Visit-->
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Thanks+for+your+Visit+!!!)](https://git.io/typing-svg)
 <!--Final do Agradecimento-->
  
