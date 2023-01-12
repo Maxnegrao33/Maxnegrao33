@@ -116,8 +116,7 @@ style="margin-bottom: -5px;"/> !</h1>
  
    
    <!--Git Hub Stats --> 
- <!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=maxnegrao33&skills=JavaScript,Java,HTML,CSS,React,Python,SQL" width="500px" height="100%"></img>
+ 
  
  
  
