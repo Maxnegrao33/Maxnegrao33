@@ -117,11 +117,10 @@ style="margin-bottom: -5px;"/> !</h1>
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxnegrao33&layout=compact)](https://github.com/maxnegrao33/github-readme-stats)
  
- <!--Git Hub Stats --> 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true&bg_color=00000000)
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxnegrao33&count_private=true) 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true&theme=transparent)
- ![Maxnegrao33's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maxnegrao33&repo=github-readme-stats)](https://github.com/maxnegrao33/github-readme-stats)
+   
+   <!--Git Hub Stats --> 
+ 
   
  <!--Projetos e Contribuições-->
  [![GitHub Streak](https://streak-stats.demolab.com/?user=maxnegrao33&theme=highcontrast&ring=4675b8)](https://git.io/streak-stats)  
@@ -236,6 +235,9 @@ style="margin-bottom: -5px;"/> !</h1>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{maxnegrao33}/count.svg" /></p> 
 <br>
 </div>
+  
+counting of visitors to this page in this section started from May 8, 2022
+<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
  
  <label for="text">
   <input type="text">
@@ -252,6 +254,9 @@ style="margin-bottom: -5px;"/> !</h1>
  <!--Agradecimento pela Visita - Thanks for your Visit-->
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Thanks+for+your+Visit+!!!)](https://git.io/typing-svg)
 <!--Final do Agradecimento-->
+ 
+
+ 
  
  <!--Gif Final - End Gif-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>    
