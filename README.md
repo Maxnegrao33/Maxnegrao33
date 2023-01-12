@@ -128,9 +128,12 @@ graph TD;
     Back-End-->Java
     Back-End-->JavaEE
     Back-End-->Spring
-    
+    Back-End-->JavaScript
    
     SQL-->MySQL
+    SQL-->NoSQL
+    Back-End-->NoSQL
+    Back-End-->MySQL
    
    ```
    
