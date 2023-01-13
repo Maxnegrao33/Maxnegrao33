@@ -154,8 +154,8 @@ graph TD;
 <br>
    
    <!--Git Hub Stats --> 
- <codersrank-timeline username="maxnegrao33" type="workexperience"></codersrank-timeline>
- 
+| <a href="https://github.com/maxnegrao33/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Maxnegrao33&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/maxnegrao33/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxnegrao33&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
  
  
  <!--Projetos e Contribuições-->
