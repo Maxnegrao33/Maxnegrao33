@@ -267,6 +267,38 @@ graph TD;
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 <!--Final do Gráfico da Cobrinha--> 
  
+  
+  <!--Coordenadas de Rio Preto - My Home-->
+  <h1 align="center"> My Home </h1>
+  
+  ```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-50,-20.9],
+              [-48.9,-20.9],
+              [-48.9,-20.9],
+              [-50,-20.9],
+              [-50,-20.9]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
+  
+  
  <!--Visitas - Visitors Count-->
  <div align="center">
 <br><h1 align="centre"><b>Visitors Count</b></h1>  
