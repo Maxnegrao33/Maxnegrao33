@@ -298,7 +298,6 @@ graph TD;
 }
 ```
   
-  
  <!--Visitas - Visitors Count-->
  <div align="center">
 <br><h1 align="centre"><b>Visitors Count</b></h1>  
@@ -314,8 +313,6 @@ style="margin-bottom: -5px;"/> !</h1> -->
 <a href="http://s01.flagcounter.com/more/X70"><img src="https://s01.flagcounter.com/count/X70/bg_000000/txt_FFFFFF/border_CCCCCC/columns_5/maxflags_50/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="5"></a>
 </div>
   
-  
-
  
  <label for="text">
   <input type="text">
@@ -323,23 +320,15 @@ style="margin-bottom: -5px;"/> !</h1> -->
 </div>
 <!--Final do Contador de Visitas - End to Visitors Count-->
  
- 
- 
  <!--Faixa de Arco-Íris-->
  <p align="center">
   <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Rainbow.gif" width="100vw">
   </p>
 <!--Final da Faixa Animada-->  
 
-
-
-
 <!--Agradecimento pela Visita - Thanks for your Visit-->
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Thanks+for+your+Visit+!!!)](https://git.io/typing-svg)
 <!--Final do Agradecimento-->
- 
-
- 
  
  <!--Gif Final - End Gif-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>    
