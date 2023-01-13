@@ -26,11 +26,11 @@ style="margin-bottom: -5px;"/> !</h1>
 
 <!--Header - My website-->
 <h1 align="center">My personal website, https://macielengenheiro.com.br<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" color="FFFFFF"
-style="margin-bottom: -5px;" target="_blank"/> !</h1>
+style="margin-bottom: -5px;" target="_blank" rel="noopener noreferrer"/> !</h1>
 <!--End My Website-->
 
  
-<!--Tabela Maior-->
+<!--Tabela Maior - Tall Table-->
 <table border="5"> 
  <h1 align="center">Follow me, Be my Friend.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" color="FFFFFF"
 style="margin-bottom: -5px;"/> !</h1>
@@ -70,7 +70,7 @@ style="margin-bottom: -5px;"/> !</h1>
  
  <br>
  
- <!--Tabela Menor ou de Baixo-->
+ <!--Tabela Menor ou de Baixo - Down Table-->
  <table border = "5" align="center">
   <tr>
    <th> <strong>📚 Study Focus</th> </strong>
