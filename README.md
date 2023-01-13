@@ -25,8 +25,8 @@ style="margin-bottom: -5px;"/> !</h1>
 <!--Final da Faixa Animada-->  
 
 <!--Header - My website-->
-<h1 align="center" target="_blank">My personal website, https://macielengenheiro.com.br<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" color="FFFFFF"
-style="margin-bottom: -5px;"/> !</h1>
+<h1 align="center">My personal website, https://macielengenheiro.com.br<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" color="FFFFFF"
+style="margin-bottom: -5px;" target="_blank"/> !</h1>
 <!--End My Website-->
 
  
