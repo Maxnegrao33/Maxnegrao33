@@ -154,11 +154,10 @@ graph TD;
 <br>
    
    <!--Git Hub Stats --> 
-<!--| <a href="https://github.com/maxnegrao33/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="maxnegrao33's github stats" /></a> 
-   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true)
-| ------------- | ------------- |-->
- 
+## Github Stats  
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center" />
+</div>  
  
  <!--Projetos e Contribuições-->
  [![GitHub Streak](https://streak-stats.demolab.com/?user=maxnegrao33&theme=highcontrast&ring=4675b8)](https://git.io/streak-stats)  
