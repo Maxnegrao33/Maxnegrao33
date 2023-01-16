@@ -156,12 +156,11 @@ graph TD;
 <br>
    
    <!--Git Hub Stats --> 
-   <div> 
-      <a href="https://github.com/Maxnegrao33">
-<img aligh="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxnegrao33&layout=compact&langs_count=7&theme=dracula"/>  
-    <!--Projetos e Contribuições-->
- <img align="right" src="https://streak-stats.demolab.com/?user=maxnegrao33&theme=highcontrast&ring=4675b8)](https://git.io/streak-stats)"/>       
-   </div>
+<img aligh="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxnegrao33&layout=compact&langs_count=7&theme=dracula"/>  
+       
+   <!--Projetos e Contribuições -->
+ <img align="center" src="https://streak-stats.demolab.com/?user=maxnegrao33&theme=highcontrast&ring=4675b8)](https://git.io/streak-stats)"/>       
+   
    
 <!--Faixa de Arco-Íris-->
  <p align="center">
@@ -170,18 +169,17 @@ graph TD;
 <!--Final da Faixa Animada-->  
    
  <!--Gif Digitando--> 
-    <div>
- <img align="left" height="240em" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
+ <img align="center" height="240em" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
 
- <img align="right"src="https://wakatime.com/share/@maxnegrao33/ee1cf0fd-42a8-45c7-97f3-d2df82dd18b4.svg"/>   
-    </div>
- 
+ <!--img src="https://wakatime.com/share/@maxnegrao33/ee1cf0fd-42a8-45c7-97f3-d2df82dd18b4.svg"/ --> 
+
  <!--Faixa de Arco-Íris-->
  <p align="center">
   <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Rainbow.gif" width="100vw">
   </p>
 <!--Final da Faixa Animada-->  
-   
+
+ 
  <!--Imagens Troféus-->  
   <div align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=maxnegrao33&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
