@@ -189,12 +189,13 @@ graph TD;
  <!--Imagens Troféus-->  
  <img align="left" src="https://github-profile-trophy.vercel.app/?username=maxnegrao33&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
   
-<img align="right" alt="DEV" height="200em" src="https://user-images.githubusercontent.com/64813513/167021686-b09b7051-45ef-4d2a-9863-db926ed3cf03.gif"/>  
+<img align="right" alt="DEV" height="240em" src="https://user-images.githubusercontent.com/64813513/167021686-b09b7051-45ef-4d2a-9863-db926ed3cf03.gif"/>  
 
 <img src="https://wakatime.com/share/@maxnegrao33/ee1cf0fd-42a8-45c7-97f3-d2df82dd18b4.svg"/>
+ </div>
+<!--Fim imagens trofeus e developer
    
-</div>
-
+   
  <!--Knowledge of Technologies--> 
 <div style="display: inline_block"><br>
  
