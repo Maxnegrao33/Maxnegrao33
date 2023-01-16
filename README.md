@@ -159,7 +159,11 @@ graph TD;
 <br>
    
    <!--Git Hub Stats --> 
-![Maxnegrao33's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true&theme=radical)
+   <div> 
+    <a href="https://github.com/Maxnegrao33">
+    <!--img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxnegrao33&layout-compact&langs_count-7&theme=dracula" /-->   
+     <img  align="left" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxnegrao33&show_icons-true&theme=dracula&include_all_commits-true&count_private-true" />  
+   </div>
    
    
  <!--Projetos e Contribuições-->
