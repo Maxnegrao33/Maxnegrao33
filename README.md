@@ -158,16 +158,13 @@ graph TD;
    <!--Git Hub Stats --> 
    <div> 
       <a href="https://github.com/Maxnegrao33">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxnegrao33&layout=compact&langs_count=7&theme=dracula"/>   
+<img aligh="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxnegrao33&layout=compact&langs_count=7&theme=dracula"/>   
      <!--img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maxnegrao33&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/ --> 
+    <!--Projetos e Contribuições-->
+ <img align="right" src="https://streak-stats.demolab.com/?user=maxnegrao33&theme=highcontrast&ring=4675b8)](https://git.io/streak-stats)"/>     
+       
    </div>
    
-   
- <!--Projetos e Contribuições-->
- [![GitHub Streak](https://streak-stats.demolab.com/?user=maxnegrao33&theme=highcontrast&ring=4675b8)](https://git.io/streak-stats)  
- 
-
-
 <!--Faixa de Arco-Íris-->
  <p align="center">
   <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Rainbow.gif" width="100vw">
