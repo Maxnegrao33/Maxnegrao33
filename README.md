@@ -171,8 +171,10 @@ graph TD;
 <!--Final da Faixa Animada-->  
    
  <!--Gif Digitando--> 
+ <div align="center">
  <img align="center" height="240em" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
-
+ </div>
+ 
  <!--img src="https://wakatime.com/share/@maxnegrao33/ee1cf0fd-42a8-45c7-97f3-d2df82dd18b4.svg"/ --> 
 
  <!--Faixa de Arco-Íris-->
