@@ -156,12 +156,13 @@ graph TD;
 <!--Final da Faixa Animada-->  
 <br>
    
+   <div align="center">
    <!--Git Hub Stats --> 
 <img aligh="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxnegrao33&layout=compact&langs_count=7&theme=dracula"/>  
        
    <!--Projetos e Contribuições -->
- <img align="center" src="https://streak-stats.demolab.com/?user=maxnegrao33&theme=highcontrast&ring=4675b8)](https://git.io/streak-stats)"/>       
-   
+ <img align="center" height="180em" src="https://streak-stats.demolab.com/?user=maxnegrao33&theme=highcontrast&ring=4675b8)](https://git.io/streak-stats)"/>       
+   </div
    
 <!--Faixa de Arco-Íris-->
  <p align="center">
