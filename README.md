@@ -159,9 +159,9 @@ graph TD;
 <br>
    
    <!--Git Hub Stats --> 
-## Github Stats  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maxnegrao33&repo=github-readme-stats)](https://github.com/maxnegrao33/github-readme-stats)
- 
+![Maxnegrao33's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true&theme=radical)
+   
+   
  <!--Projetos e Contribuições-->
  [![GitHub Streak](https://streak-stats.demolab.com/?user=maxnegrao33&theme=highcontrast&ring=4675b8)](https://git.io/streak-stats)  
  
