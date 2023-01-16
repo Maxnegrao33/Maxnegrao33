@@ -113,10 +113,10 @@ style="margin-bottom: -5px;"/> !</h1>
   </p>
 <!--Final da Faixa Animada-->  
 
- <!--Contribuições-->
-<div align="center">
+ <!--Total Contribuitions / Current Streak-->
+<p align="center">
   <a href="https://github.com/Maxnegrao33">
-   </div>
+   </p>
    
    
  <!--Structures Front and Back End--> 
