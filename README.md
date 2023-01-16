@@ -25,10 +25,13 @@ style="margin-bottom: -5px;"/> !</h1>
 <!--Final da Faixa Animada-->  
 
 <!--Header - My website-->
+<details>
+ <summary><b> My Websites </b> </summary>
 <h1 align="center">My personal website, https://macielengenheiro.com.br<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" color="FFFFFF"
 style="margin-bottom: -5px;" target="_blank" rel="noopener noreferrer"/> !</h1>
 <h1 align="center">Our technical team website, https://proedev-ewrb.vercel.app<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" color="FFFFFF"
 style="margin-bottom: -5px;" target="_blank" rel="noopener noreferrer"/> !</h1>
+ </details>
 <!--End My Website-->
 
  
