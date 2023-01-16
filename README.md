@@ -158,11 +158,9 @@ graph TD;
    <!--Git Hub Stats --> 
    <div> 
       <a href="https://github.com/Maxnegrao33">
-<img aligh="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxnegrao33&layout=compact&langs_count=7&theme=dracula"/>   
-     <!--img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maxnegrao33&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/ --> 
+<img aligh="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxnegrao33&layout=compact&langs_count=7&theme=dracula"/>  
     <!--Projetos e Contribuições-->
- <img align="right" src="https://streak-stats.demolab.com/?user=maxnegrao33&theme=highcontrast&ring=4675b8)](https://git.io/streak-stats)"/>     
-       
+ <img align="right" src="https://streak-stats.demolab.com/?user=maxnegrao33&theme=highcontrast&ring=4675b8)](https://git.io/streak-stats)"/>       
    </div>
    
 <!--Faixa de Arco-Íris-->
@@ -171,8 +169,12 @@ graph TD;
   </p>
 <!--Final da Faixa Animada-->  
    
- <!--Gif Digitando-->  
- <img align="center" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
+ <!--Gif Digitando--> 
+    <div>
+ <img align="left" height="240em" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
+
+ <img align="right"src="https://wakatime.com/share/@maxnegrao33/ee1cf0fd-42a8-45c7-97f3-d2df82dd18b4.svg"/>   
+    </div>
  
  <!--Faixa de Arco-Íris-->
  <p align="center">
@@ -181,15 +183,14 @@ graph TD;
 <!--Final da Faixa Animada-->  
    
  <!--Imagens Troféus-->  
- <img align="left" src="https://github-profile-trophy.vercel.app/?username=maxnegrao33&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
+  <div align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=maxnegrao33&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
     
  <!--Imagem criptografia e pasta -->   
- <img align="right" alt="DEV" height="240em" src="https://user-images.githubusercontent.com/64813513/167021686-b09b7051-45ef-4d2a-9863-db926ed3cf03.gif"/>  
-
-<img src="https://wakatime.com/share/@maxnegrao33/ee1cf0fd-42a8-45c7-97f3-d2df82dd18b4.svg"/>
+ <img alt="DEV" height="240em" src="https://user-images.githubusercontent.com/64813513/167021686-b09b7051-45ef-4d2a-9863-db926ed3cf03.gif"/>  
  </div>
 <!--Fim imagens trofeus e criptogrfia e pasta -->
-<br>   
+<br> <br>  
    
  <!--Knowledge of Technologies--> 
 <div style="display: inline_block"><br>
