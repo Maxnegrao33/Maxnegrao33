@@ -118,8 +118,8 @@ style="margin-bottom: -5px;"/> !</h1>
   <a href="https://github.com/Maxnegrao33">
    </p>
    
-   
  <!--Structures Front and Back End--> 
+ 
 ```mermaid
 graph TD;
     Front-End-->HTML5;
@@ -133,6 +133,7 @@ graph TD;
     Front-End-->TypeScript;
     Front-End-->JQuery;
    ```
+ 
 ```mermaid
 graph TD;
     Back-End-->JavaEE;
