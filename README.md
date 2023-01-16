@@ -298,6 +298,11 @@ graph TD;
   ]
 }
 ```
+ 
+  <h1 align="center"> Developer </h1>
+<img align="center" alt="DEV" src="https://user-images.githubusercontent.com/64813513/167021686-b09b7051-45ef-4d2a-9863-db926ed3cf03.gif"/> 
+
+  
   
  <!--Visitas - Visitors Count-->
  <div align="center">
