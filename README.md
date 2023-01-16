@@ -3,7 +3,7 @@
 <!--Final do Gif Inicial-->
 
 <!--Header - Hello Everyone-->
-<h1 align="center">Hello, everyone.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" color="FFFFFF"
+<h1 align="center">Hello, Everyone.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" color="FFFFFF"
 style="margin-bottom: -5px;"/> !</h1>
 <!--End Hello Everyone-->
 
@@ -116,6 +116,8 @@ style="margin-bottom: -5px;"/> !</h1>
  <!--Contribuições-->
 <div align="center">
   <a href="https://github.com/Maxnegrao33">
+   </div>
+   
    
  <!--Structures Front and Back End--> 
 ```mermaid
@@ -129,8 +131,6 @@ graph TD;
     Front-End-->JSON;
     Front-End-->Vue;
     Front-End-->TypeScript;
-    Front-End-->WordPress;
-    Front-End-->Bootstrap;
     Front-End-->JQuery;
    ```
 ```mermaid
@@ -144,10 +144,7 @@ graph TD;
     Back-End-->Spr-JDBC;
     Back-End-->Spr-Security;
     Back-End-->iReport;
-    SQL-->Spr-JDBC;
-    SQL-->Hibernate;
-    SQL-->SGBD;
-    Back-End-->SGBD;   
+      
    ```
 
    
@@ -187,12 +184,14 @@ graph TD;
 <!--Final da Faixa Animada-->  
    
  <!--Imagens Troféus-->  
- <img align="left" src="https://github-profile-trophy.vercel.app/?username=maxnegrao33&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+ <img align="left" src="https://github-profile-trophy.vercel.app/?username=maxnegrao33&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
+    
+ <!--Imagem criptografia e pasta -->   
  <img align="right" alt="DEV" height="240em" src="https://user-images.githubusercontent.com/64813513/167021686-b09b7051-45ef-4d2a-9863-db926ed3cf03.gif"/>  
 
 <img src="https://wakatime.com/share/@maxnegrao33/ee1cf0fd-42a8-45c7-97f3-d2df82dd18b4.svg"/>
  </div>
-<!--Fim imagens trofeus e developer
+<!--Fim imagens trofeus e criptogrfia e pasta -->
 <br>   
    
  <!--Knowledge of Technologies--> 
@@ -278,7 +277,7 @@ graph TD;
  
   
   <!--Coordenadas de Rio Preto - My Home-->
-  <h1 align="center"> My Home </h1>
+  <h1 align="center"> My Home, My Region, My Country </h1>
   
   ```geojson
 {
@@ -306,19 +305,15 @@ graph TD;
   ]
 }
 ```
- 
- 
-
   
-  
- <!--Visitas - Visitors Count-->
+<!--Visitas - Visitors Count-->
  <div align="center">
 <br><h1 align="centre"><b>Visitors Count</b></h1>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{maxnegrao33}/count.svg" /></p> 
 <br>
 
-  <!--Países Visitantes-->  
-
+  
+ <!--Países Visitantes-->  
  <table border="5"> 
  <h1 align="center">Counting of Visitors to this page in this section started from Jan 12, 2023 </h1><!--<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" color="FFFFFF"
 style="margin-bottom: -5px;"/> !</h1> -->
