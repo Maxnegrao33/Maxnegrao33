@@ -160,7 +160,9 @@ graph TD;
  <!--Atenção: ao fazer um fork troque o username -->
  <!--Attention: when making a fork, change the username -->
  
-<img aligh="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxnegrao33&layout=compact&langs_count=7&theme=dracula"/>  
+ <a href=""> 
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Maxnegrao33&&count_private=true&show_icons=true&theme=chartreuse-dark"/> 
+ </a> 
    
 <!--Projetos e Contribuições - Projects and Contribuitions -->
  <img align="center" height="180em" src="https://streak-stats.demolab.com/?user=maxnegrao33&theme=highcontrast&ring=4675b8)](https://git.io/streak-stats)"/>    <!--Final Projetos e Contribuições - End Projects and Contribuitions -->   
