@@ -119,6 +119,7 @@ style="margin-bottom: -5px;"/> !</h1>
    </p>
    
  <!--Structures Front and Back End--> 
+ 
  ```mermaid
 graph TD;
     Front-End-->HTML5;
@@ -282,6 +283,7 @@ graph TD;
  
   
   <!--Geolocalização da minha cidadede Rio Preto - My Home-->
+  
   <h1 align="center"> My Home</h1>
   
   ```geojson
@@ -310,6 +312,7 @@ graph TD;
   ]
 }
 ```
+  
 <!--Final Geolocalização da minha cidadede Rio Preto - End My Home-->
   
 <!--Contador de Visitas - Visitors Count-->
