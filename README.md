@@ -119,8 +119,7 @@ style="margin-bottom: -5px;"/> !</h1>
    </p>
    
  <!--Structures Front and Back End--> 
- 
-```mermaid
+ ```mermaid
 graph TD;
     Front-End-->HTML5;
     Front-End-->CSS3;
@@ -144,8 +143,7 @@ graph TD;
     Back-End-->Hibernate-JPA;
     Back-End-->Spr-JDBC;
     Back-End-->Spr-Security;
-    Back-End-->iReport;
-      
+    Back-End-->iReport;   
    ```
 
    
@@ -277,7 +275,7 @@ graph TD;
  
   
   <!--Coordenadas de Rio Preto - My Home-->
-  <h1 align="center"> My Home, My Region, My Country </h1>
+  <h1 align="center"> My Home</h1>
   
   ```geojson
 {
