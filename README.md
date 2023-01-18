@@ -277,6 +277,15 @@ graph TD;
  <!--Gráfico Contribuições de Código - Graphic Code Constribuitions-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Code+Contribuitions+!!!)](https://git.io/typing-svg)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=maxnegrao33&bg_color=1e1a1c&color=ffffff&line=23297b&point=f8f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<h1 align="center">Github Metrics </h1>
+<p align="center">
+  <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maxnegrao33&theme=github_dark" />
+</p>
+<!--p align="center">
+  <img width="625em" src="https://metrics.lecoq.io/larrymahumot" />
+</p-->
+
 <!--Final Gráfico Contribuições de Código - End Graphic Code Constribuitions-->
  
  
