@@ -145,6 +145,7 @@ graph TD;
     CSS3-->FlexBox;
     CSS3-->GRID;
     CSS3-->Bootstrap;
+    Bootstrap-->HTML5;
     Front-End-->JavaScript;
     Front-End-->Angular;
     Angular-->Ionic;
@@ -172,7 +173,7 @@ graph TD;
     Java-->JavaEE;
     Java-->Spring;
     Java-->SQL;
-    
+    Laravel-->SQL;
     Spring-->SprBootMVC;
     Spring-->SprBootAPI-REST;
     Spring-->SprDATA-JPA;
@@ -183,6 +184,32 @@ graph TD;
     Spring-->JPA;
     Java-->iReport;   
    ```
+ 
+ ```mermaid
+graph TD;
+  SQL-->MySQL;
+  Java-->SQL;
+  SQL-->Hibernate;
+  SQL-->Spr-JDBC;
+  SQL-->SQLServer;
+  SQL-->OracleDB;
+  SQL-->MariaDB;
+  NoSQL-->MongoDB;
+  NoSQL-->CassandraDB;
+  NoSQL-->REDIS;
+  SQL-->Cloud;
+  Cloud-->Azure;
+  Cloud-->AWS;
+  Cloud-->Firebase;
+  MongoDB-->Cloud;
+  Cassandra-->Cloud;
+  Redis-->Cloud;
+  SQL-->JakartaFaces;
+  JakartaFaces-->NoSQL;
+ 
+ ```
+ 
+ 
 <!--End For Structures Front and Back-End-->
  <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
    
