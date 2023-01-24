@@ -153,9 +153,13 @@ graph TD;
     JavaScript-->React;
     React-->ReactNative;
     Front-End-->XML;
-    Front-End-->JSON;
+    JavaScript-->JSON;
     JavaScript-->Vue;
+    Vue-->NuxtJs;
+    Vue-->Element;
     Front-End-->TypeScript;
+    TypeScript-->NestJs;
+    TypeScript-->AdonisJs
     Front-End-->JQuery;
    ```
  
@@ -171,6 +175,9 @@ graph TD;
     PHP-->CakePHP;
     Java-->JavaSE;
     Java-->JavaEE;
+    JavaEE-->PureApplet;
+    JavaEE-->JavaServlet;
+    JavaEE-->EBJ;
     Java-->Spring;
     Java-->SQL;
     Laravel-->SQL;
@@ -182,7 +189,9 @@ graph TD;
     Spring-->Spr-Security;
     Spring-->JSP;
     Spring-->JPA;
-    Java-->iReport;   
+    Java-->Forms;
+    Forms-->iReport
+    Forms-->JFrame;
    ```
  
  ```mermaid
