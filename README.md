@@ -292,7 +292,7 @@ graph TD;
 
 </div>
  <!--Final Conhecimento das Tecnologias - End Knowledge of Technologies--> 
-
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
  
 <!--Projetos de Estudos Futuros - Future Studies Projects-->  
 <div style="display: inline_block"><br>
@@ -315,12 +315,11 @@ graph TD;
  <!--Final da Tabela - End table-->
 </div>
 <!--Final Projetos de Estudos Futuros - End Future Studies Projects-->  
- 
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
  <hr>
  
   <!--Redes Sociais - Socials Networks-->
 
- 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=My+Social+Networks+!!!)](https://git.io/typing-svg)
  
  <div> 
@@ -335,18 +334,19 @@ graph TD;
   <!--Facebook--> 
  <!--a href="https://www.facebook.com/maciel33oliveira" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" align="center"></a>-->
 <hr>
- <!--Final Redes Sociais - End Socials Networks--> 
+<!--Final Redes Sociais - End Socials Networks--> 
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
   
 <!--Faixa de Arco-Íris - Rainbow range-->
  <p align="center">
   <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Rainbow.gif" width="100vw">
   </p>
 <!--Final da Faixa Animada - Rainbow range-->  
- 
- <img src="/assets/stack-js.gif"/> 
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
   
+<!--img src="/assets/stack-js.gif"/--> 
   
- <!--Gráfico Contribuições de Código - Graphic Code Constribuitions-->
+<!--Gráfico Contribuições de Código - Graphic Code Constribuitions-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Code+Contribuitions+!!!)](https://git.io/typing-svg)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=maxnegrao33&bg_color=1e1a1c&color=ffffff&line=23297b&point=f8f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -357,15 +357,14 @@ graph TD;
 <!--p align="center">
   <img width="625em" src="https://metrics.lecoq.io/larrymahumot" />
 </p-->
-
 <!--Final Gráfico Contribuições de Código - End Graphic Code Constribuitions-->
- 
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
  
 <!--Gráfico da Cobrinha - Snake Animation Graphic-->
   <!--Forked to GitHub Rafaella Ballerini-->
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 <!--Final Gráfico da Cobrinha - End Animation Graphic-->
- 
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
   
   <!--Geolocalização da minha cidade de Rio Preto - My Home-->
   
@@ -399,13 +398,15 @@ graph TD;
 ```
   
 <!--Final Geolocalização da minha cidadede Rio Preto - End My Home-->
- 
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------> 
+  
  <p align="center">
   <a href="https://www.buymeacoffee.com/NazmusSayad">
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="NazmusSayad" />
   </a>
 </p>
- 
+ <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
+  
  <br>
  
 <!--Contador de Visitas - Visitors Count-->
@@ -423,24 +424,27 @@ style="margin-bottom: -5px;"/> !</h1> -->
   <br><br>
 <a href="http://s01.flagcounter.com/more/X70"><img src="https://s01.flagcounter.com/count/X70/bg_000000/txt_FFFFFF/border_CCCCCC/columns_5/maxflags_50/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="5"></a>
 </div>
-  
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------->  
  <label for="text">
   <input type="text">
  </label> 
 </div>
 <!--Final do Contador de Visitas - End to Visitors Count-->
- 
+ <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
+  
  <!--Faixa de Arco-Íris - Rainbow range-->
  <p align="center">
   <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Rainbow.gif" width="100vw">
   </p>
 <!--Final da Faixa Animada - Rainbow range-->  
-
+ <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
+  
 <!--Agradecimento pela Visita - Thanks for your Visit-->
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Thanks+for+your+Visit+!!!)](https://git.io/typing-svg)
 <!--Final Agradecimento pela Visita - End Thanks for your Visit-->
- 
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
+  
 <!--Gif Final - End Gif-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>    
 <!--Final Gif Final/Movimento azul - End Gif/ blue Moviment-->
- 
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------> 
