@@ -400,11 +400,13 @@ graph TD;
 <!--Final Geolocalização da minha cidadede Rio Preto - End My Home-->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------> 
   
+ <!--Initial Buy me a Coffee - Início Pague-me um Café--> 
  <p align="center">
   <a href="https://www.buymeacoffee.com/NazmusSayad">
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="NazmusSayad" />
   </a>
 </p>
+ <!--End Buy me a Coffee - Final Pague-me um Café--> 
  <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
   
  <br>
