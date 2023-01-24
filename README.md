@@ -1,11 +1,14 @@
 <!--Gif Inicial, Movimento Azul / Initial Gif - Blue Moviment-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
 <!--Final do Gif Inicial / Initial Gif - Blue Moviment-->
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
 
 <!--Header - Hello Everyone-->
 <h1 align="center">Hello, Everyone.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" color="FFFFFF"
 style="margin-bottom: -5px;"/> !</h1>
 <!--End Hello Everyone-->
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <!--Faixa de Arco-Íris - Rainbow range-->
  <p align="center">
@@ -13,16 +16,19 @@ style="margin-bottom: -5px;"/> !</h1>
   </p>
 <!--Final da Faixa Animada - Rainbow range-->  
 <!--Final do Header-->
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <!--Descrição de quem sou - Who Am I Description-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Maciel+Oliveira;I'm+from+Brazil;I'm+Computer+Technician;Study+Computer+Engineering;Study+Post+Graduate+Degree+in+Software+Engineering;Study+Database;and+Programming+(Front+-+Back+End);My+Goal+:+To+be+Full+-+Stack+Developer;+Welcome+to+my+Profile!!!+)](https://git.io/typing-svg)
 <!--Final da Descrição - End to Who I am-->
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <!--Faixa de Arco-Íris - Rainbow range-->
  <p align="center">
   <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Rainbow.gif" width="100vw">
   </p>
 <!--Final da Faixa Animada - Rainbow range-->  
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <!--Header - My website-->
 <details>
@@ -33,11 +39,17 @@ style="margin-bottom: -5px;" target="_blank" rel="noopener noreferrer"/> !</h1>
 style="margin-bottom: -5px;" target="_blank" rel="noopener noreferrer"/> !</h1>
  </details>
 <!--End My Website-->
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
+
+<!--Banner Website Development-->
 ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
+<!--End Banner Website Development-->
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-<!--Tabela Maior - Tall Table-->
-<table border="5"> 
+
+<!--Tabela Maior - Bigger Table-->
+<table border="15"> 
  <h1 align="center">Follow me, Be my Friend.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" color="FFFFFF"
 style="margin-bottom: -5px;"/> !</h1>
  
@@ -72,12 +84,12 @@ style="margin-bottom: -5px;"/> !</h1>
  
  </tbody> 
  </table>  
- <!--Fim da Tabela Maior - End to Tall Table-->
- 
+ <!--Fim da Tabela Maior - End to Bigger Table-->
+ <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
  <br>
  
- <!--Tabela Menor ou de Baixo - Down Table-->
- <table border = "5" align="center">
+ <!--Tabela Menor ou de Baixo - Under Table-->
+ <table border = "15" align="center">
   <tr>
    <th> <strong>📚 Study Focus</th> </strong>
     <th>📆 Ongoing Projects</td>
@@ -106,58 +118,84 @@ style="margin-bottom: -5px;"/> !</h1>
     <td> Spanish (intermediary)</td>
   </tr>
   </table>
-  <!--Fim da Tabela Menor - End to Down Table--> 
+  <!--Fim da Tabela Menor - End to Under Table--> 
+ <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
  
  <!--Faixa de Arco-Íris - Rainbow range-->
  <p align="center">
   <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Rainbow.gif" width="100vw">
   </p>
 <!--Final da Faixa Animada - Rainbow range-->  
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
  <!--Total Contribuitions / Current Streak-->
 <p align="center">
   <a href="https://github.com/Maxnegrao33">
    </p>
-   
+ <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
+ 
  <!--Structures Front and Back End--> 
  
  ```mermaid
 graph TD;
     Front-End-->HTML5;
+    HTML5-->DOM;
+    HTML5-->Foundation;
     Front-End-->CSS3;
+    CSS3-->FlexBox;
+    CSS3-->GRID;
+    CSS3-->Bootstrap;
     Front-End-->JavaScript;
     Front-End-->Angular;
-    Front-End-->React;
+    Angular-->Ionic;
+    Angular-->MobileAngularUI
+    JavaScript-->React;
+    React-->ReactNative;
     Front-End-->XML;
     Front-End-->JSON;
-    Front-End-->Vue;
+    JavaScript-->Vue;
     Front-End-->TypeScript;
     Front-End-->JQuery;
    ```
  
 ```mermaid
 graph TD;
-    Back-End-->JavaEE;
-    Back-End-->JavaSE;
-    Back-End-->SprBootMVC;
-    Back-End-->SprBootAPI-REST;
-    Back-End-->SprDATA-JPA;
-    Back-End-->Hibernate-JPA;
-    Back-End-->Spr-JDBC;
-    Back-End-->Spr-Security;
-    Back-End-->iReport;   
+    Back-End-->Java;
+    Back-End-->NodeJs;
+    NodeJs-->Socket.io;
+    NodeJs-->Meteor.Js.
+    Back-End-->PHP;
+    PHP-->Laravel;
+    PHP-->Zend;
+    PHP-->CakePHP;
+    Java-->JavaSE;
+    Java-->JavaEE;
+    Java-->Spring;
+    Java-->SQL;
+    
+    Spring-->SprBootMVC;
+    Spring-->SprBootAPI-REST;
+    Spring-->SprDATA-JPA;
+    SQL-->Hibernate;
+    SQL-->Spr-JDBC;
+    Spring-->Spr-Security;
+    Spring-->JSP;
+    Spring-->JPA;
+    Java-->iReport;   
    ```
-
+<!--End For Structures Front and Back-End-->
+ <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
    
    <!--Faixa de Arco-Íris - Rainbow range-->
  <p align="center">
   <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Rainbow.gif" width="100vw">
   </p>
 <!--Final da Faixa Animada - Rainbow range-->  
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <br>
    
    <div align="center">
-   <!--Status do GitHub - GitHub Stats --> 
+ <!--Status do GitHub - GitHub Stats --> 
  <!--Atenção: ao fazer um fork troque o username -->
  <!--Attention: when making a fork, change the username -->
  
@@ -165,18 +203,19 @@ graph TD;
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Maxnegrao33&&count_private=true&show_icons=true&theme=chartreuse-dark"/> 
  </a> 
    <!--img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Maxnegrao33&&count_private=true&show_icons=true&theme=chartreuse-dark"/--> 
- 
- 
+
 <!--Projetos e Contribuições - Projects and Contribuitions -->
  <img align="center" height="180em" src="https://streak-stats.demolab.com/?user=maxnegrao33&theme=highcontrast&ring=4675b8)](https://git.io/streak-stats)"/>    <!--Final Projetos e Contribuições - End Projects and Contribuitions -->   
    </div
-   
+ <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
+  
 <!--Faixa de Arco-Íris - Rainbow range-->
  <p align="center">
   <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Rainbow.gif" width="100vw">
   </p>
 <!--Final da Faixa Animada - Rainbow range-->  
-   
+ <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
+  
  <!--Gif Digitando Códigos- Typing Codes--> 
  <div align="center">
  <img align="center" height="240em" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
@@ -184,14 +223,15 @@ graph TD;
  </div>
  
  <!--img src="https://wakatime.com/share/@maxnegrao33/ee1cf0fd-42a8-45c7-97f3-d2df82dd18b4.svg"/ --> 
-
+ <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
+  
  <!--Faixa de Arco-Íris - Rainbow range-->
  <p align="center">
   <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Rainbow.gif" width="100vw">
   </p>
 <!--Final da Faixa Animada - Rainbow range-->  
-
- 
+ <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
+  
  <!--Imagens Troféus - Trophies Image-->  
   <div align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=maxnegrao33&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
@@ -202,8 +242,9 @@ graph TD;
  </div>
 <!--Fim Criptogrfia e Pasta - End Encryption and Folder-->
 <!--End to GitHub Stats-->
+ <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
+ 
  <br> <br>  
-   
  <!--Conhecimento das Tecnologias - Knowledge of Technologies--> 
 <div style="display: inline_block"><br>
  
@@ -211,7 +252,7 @@ graph TD;
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Knowledge+of+Tecnologies+!!!)](https://git.io/typing-svg)
  
- <table border = "5">
+ <table border = "15">
   <td align="center"><img align="center" alt="Max-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML</td>
   <td align="center"><img align="center" alt="Max-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS</td>
   <td align="center"><img align="center" alt="Max-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">JavaScript</td>
@@ -233,7 +274,7 @@ graph TD;
  
  <!--Início da tabela e espessura da borda-->
  <!--Inicial table and width border-->
- <table border = "5">
+ <table border = "15">
   <td align="center"><img align="center" alt="Max-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">TypeScript</td>
   <td align="center"><img align="center" alt="Max-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">React</td>
   <td align="center"><img align="center" alt="Max-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Python</td>
@@ -275,6 +316,9 @@ graph TD;
   </p>
 <!--Final da Faixa Animada - Rainbow range-->  
  
+ <img src="/assets/stack-js.gif"/> 
+  
+  
  <!--Gráfico Contribuições de Código - Graphic Code Constribuitions-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Code+Contribuitions+!!!)](https://git.io/typing-svg)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=maxnegrao33&bg_color=1e1a1c&color=ffffff&line=23297b&point=f8f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -296,7 +340,7 @@ graph TD;
 <!--Final Gráfico da Cobrinha - End Animation Graphic-->
  
   
-  <!--Geolocalização da minha cidadede Rio Preto - My Home-->
+  <!--Geolocalização da minha cidade de Rio Preto - My Home-->
   
   <h1 align="center"> My Home</h1>
   
@@ -328,7 +372,15 @@ graph TD;
 ```
   
 <!--Final Geolocalização da minha cidadede Rio Preto - End My Home-->
-  
+ 
+ <p align="center">
+  <a href="https://www.buymeacoffee.com/NazmusSayad">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="NazmusSayad" />
+  </a>
+</p>
+ 
+ <br>
+ 
 <!--Contador de Visitas - Visitors Count-->
  <div align="center">
 <br><h1 align="centre"><b>Visitors Count</b></h1>  
@@ -336,7 +388,8 @@ graph TD;
 <br>
 <!--Final Contador de Visitas - Visitors Count-->
   
- <!--Países Visitantes - Visitors Flags-->  
+  
+<!--Países Visitantes - Visitors Flags-->  
  <table border="5"> 
  <h1 align="center">Counting of Visitors to this page in this section started from Jan 12, 2023 </h1><!--<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" color="FFFFFF"
 style="margin-bottom: -5px;"/> !</h1> -->
@@ -344,7 +397,6 @@ style="margin-bottom: -5px;"/> !</h1> -->
 <a href="http://s01.flagcounter.com/more/X70"><img src="https://s01.flagcounter.com/count/X70/bg_000000/txt_FFFFFF/border_CCCCCC/columns_5/maxflags_50/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="5"></a>
 </div>
   
- 
  <label for="text">
   <input type="text">
  </label> 
@@ -361,7 +413,7 @@ style="margin-bottom: -5px;"/> !</h1> -->
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Thanks+for+your+Visit+!!!)](https://git.io/typing-svg)
 <!--Final Agradecimento pela Visita - End Thanks for your Visit-->
  
- <!--Gif Final - End Gif-->
+<!--Gif Final - End Gif-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>    
 <!--Final Gif Final/Movimento azul - End Gif/ blue Moviment-->
  
