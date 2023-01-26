@@ -266,6 +266,8 @@ graph TD;
  </a> 
  </div>
  <!--img src="https://wakatime.com/share/@maxnegrao33/ee1cf0fd-42a8-45c7-97f3-d2df82dd18b4.svg"/ --> 
+ 
+ <!--[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxnegrao33&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
  <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
   
  <!--Faixa de Arco-Íris - Rainbow range-->
@@ -285,6 +287,13 @@ graph TD;
  </div>
 <!--Fim Criptogrfia e Pasta - End Encryption and Folder-->
 <!--End to GitHub Stats-->
+ <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
+ 
+ 
+ <!--p align="center">
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Maxnegrao33)](https://github.com/anuraghazra/github-readme-stats)
+ </p-->
+ 
  <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
  
  <br> <br>  
@@ -417,6 +426,7 @@ graph TD;
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------> 
   <br><br>
  <!--Initial Buy me a Coffee - Início Pague-me um Café--> 
+ <h1 align="center"> I need, I want a Coffee ☕</h1> 
  <p align="center">
   <a href="[https://www.buymeacoffee.com/maxmannus]/">
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" width="250" alt="maxmannus" />
