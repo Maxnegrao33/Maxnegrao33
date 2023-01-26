@@ -230,18 +230,21 @@ graph TD;
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <br>
    
+<!--GitHub Stats-->   
    <div align="center">
  <!--Status do GitHub - GitHub Stats --> 
  <!--Atenção: ao fazer um fork troque o username -->
  <!--Attention: when making a fork, change the username -->
  
- <a href=""> 
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Maxnegrao33&&count_private=true&show_icons=true&theme=chartreuse-dark"/> 
- </a> 
+ ![Maxnegrao33's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxnegrao33&show_icons=true&theme=radical)
+ 
+ <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
    <!--img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Maxnegrao33&&count_private=true&show_icons=true&theme=chartreuse-dark"/--> 
 
 <!--Projetos e Contribuições - Projects and Contribuitions -->
- <img align="center" height="180em" src="https://streak-stats.demolab.com/?user=maxnegrao33&theme=highcontrast&ring=4675b8)](https://git.io/streak-stats)"/>    <!--Final Projetos e Contribuições - End Projects and Contribuitions -->   
+ <img align="center" height="180em" src="https://streak-stats.demolab.com/?user=maxnegrao33&theme=highcontrast&ring=4675b8)](https://git.io/streak-stats)"/>    
+ <!--Final Projetos e Contribuições - End Projects and Contribuitions -->   
    </div
  <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
   
@@ -256,8 +259,12 @@ graph TD;
  <div align="center">
  <img align="center" height="240em" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
   <!--Final Gif Digitando Códigos - End Typing Codes--> 
- </div>
  
+ 
+  <a href=""> 
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Maxnegrao33&&count_private=true&show_icons=true&theme=chartreuse-dark"/> 
+ </a> 
+ </div>
  <!--img src="https://wakatime.com/share/@maxnegrao33/ee1cf0fd-42a8-45c7-97f3-d2df82dd18b4.svg"/ --> 
  <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
   
