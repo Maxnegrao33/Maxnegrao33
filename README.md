@@ -267,7 +267,7 @@ graph TD;
  </div>
  <!--img src="https://wakatime.com/share/@maxnegrao33/ee1cf0fd-42a8-45c7-97f3-d2df82dd18b4.svg"/ --> 
  
- <!--[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxnegrao33&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
+ <!--[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxnegrao33&layout=compact&hide=html,hack,css&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)-->
  <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
   
  <!--Faixa de Arco-Íris - Rainbow range-->
@@ -289,6 +289,11 @@ graph TD;
 <!--End to GitHub Stats-->
  <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
  
+ <div id="header" align="center">
+    <a href="yhttps://github.com/Ahmed-dev-dragon/">
+  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="480"/>
+       </a>
+</div>
  
  <!--p align="center">
  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Maxnegrao33)](https://github.com/anuraghazra/github-readme-stats)
