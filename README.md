@@ -55,10 +55,10 @@ style="margin-bottom: -5px;"/> !</h1>
  
  <tbody>
   <tr>
-    <th>🏆 About Me</th>
-    <td>🛠 Technical Abilitess</td>
-    <td>💻 Front-End (Studying)</td>
-    <td>🖥 Back-End (Studying)</td>
+    <th><strong>🏆 About Me</strong></th>
+    <td><strong>🛠 Technical Abilitess</strong></td>
+    <td><strong>💻 Front-End (Studying)</strong></td>
+    <td><strong>🖥 Back-End (Studying)</strong></td>
   </tr>
  
 <tr>  
@@ -72,7 +72,7 @@ style="margin-bottom: -5px;"/> !</h1>
   <td> Post Graduate in Software Engineering</td>
   <td> Assembly and Maintenance of Computers</td> 
   <td> CSS3</td>
-  <td> Object orientation</td>
+  <td> Object Orientation</td>
  </tr>  
     
  <tr>  
@@ -82,6 +82,13 @@ style="margin-bottom: -5px;"/> !</h1>
   <td> JDBC</td>
  </tr>   
  
+   <tr>  
+  <td> I. A. </td>
+  <td> Tecnician Services</td> 
+  <td> SQL</td> 
+  <td> Spring</td>
+ </tr>   
+  
  </tbody> 
  </table>  
  <!--Fim da Tabela Maior - End to Bigger Table-->
@@ -91,16 +98,16 @@ style="margin-bottom: -5px;"/> !</h1>
  <!--Tabela Menor ou de Baixo - Under Table-->
  <table border = "15" align="center">
   <tr>
-   <th> <strong>📚 Study Focus</th> </strong>
-    <th>📆 Ongoing Projects</td>
-    <td>📱 Mobile (Studying)</td>
-    <td>🥇 Languages</td>
+   <th><strong>📚 Study Focus </strong></th> 
+    <th><strong>📆 Ongoing Projects </strong></td>
+    <td><strong>📱 Mobile (Studying) </strong></td>
+    <td><strong>🥇 Languages </strong></td>
   </tr>
   
   <tr> 
     <td> Web Developer</td>
     <td> ChatGPT </td>
-    <td> Java</td>
+    <td> Java </td>
     <td> Brazilian Portuguese (native)</td>
   </tr>
   
@@ -117,6 +124,14 @@ style="margin-bottom: -5px;"/> !</h1>
     <td> Frameworks Java</td>
     <td> Spanish (intermediary)</td>
   </tr>
+  
+   <tr>  
+  <td> Code</td>
+  <td> JSP</td> 
+  <td> JSF</td> 
+  <td> Mandarin (starting)</td>
+ </tr>   
+ 
   </table>
   <!--Fim da Tabela Menor - End to Under Table--> 
  <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
