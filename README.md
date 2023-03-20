@@ -99,7 +99,7 @@ style="margin-bottom: -5px;"/> !</h1>
   
   <tr> 
     <td> Web Developer</td>
-    <td> Proedev.com </td>
+    <td> ChatGPT </td>
     <td> Java</td>
     <td> Brazilian Portuguese (native)</td>
   </tr>
