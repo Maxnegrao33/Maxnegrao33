@@ -57,12 +57,12 @@ style="margin-bottom: -5px;"/> !</h1>
   <tr>
     <th><strong>🏆 About Me</strong></th>
     <td><strong>🛠 Technical Abilitess</strong></td>
-    <td><strong>💻 Front-End (Studying)</strong></td>
+    <td><strong>💻 Front-End (Learning)</strong></td>
     <td><strong>🖥 Back-End (Studying)</strong></td>
   </tr>
  
 <tr>  
-  <td> Graduating in Computer Engineering</td>
+  <td> Graduate in Computer Engineering</td>
   <td> Computer Technician (Hardware)</td>
   <td> HTML5</td> 
   <td> Java</td>
