@@ -299,73 +299,160 @@ graph TD;
  <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
   
  <!--Imagens Troféus - Trophies Image-->  
-  <div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=maxnegrao33&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
+ 
+ <!--img src="https://github-profile-trophy.vercel.app/?username=maxnegrao33&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/-->
    <!-- Fim Imagens Troféus - End Trophies Image-->  
    
- <!--Imagem criptografia e pasta -->   
- <img alt="DEV" height="240em" src="https://user-images.githubusercontent.com/64813513/167021686-b09b7051-45ef-4d2a-9863-db926ed3cf03.gif"/>  
- </div>
+ <!--Imagem criptografia e pasta - Encryption and Folder-->   
+ <div align="center">
+  <img alt="DEV" height="263em" src="https://user-images.githubusercontent.com/64813513/167021686-b09b7051-45ef-4d2a-9863-db926ed3cf03.gif"/>  
+ <a href="yhttps://github.com/Ahmed-dev-dragon/">
+  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="480"/>
+       </a>
+  </div>
 <!--Fim Criptogrfia e Pasta - End Encryption and Folder-->
 <!--End to GitHub Stats-->
  <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
- 
- <div id="header" align="center">
-    <a href="yhttps://github.com/Ahmed-dev-dragon/">
-  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="480"/>
-       </a>
-</div>
  
  <!--p align="center">
  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Maxnegrao33)](https://github.com/anuraghazra/github-readme-stats)
  </p-->
 
- 
-<!-- New Code 25/09/2023------------------------------------------------------------------------------------------------------------->
- 
  <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
  
  <br> <br>  
  <!--Conhecimento das Tecnologias - Knowledge of Technologies--> 
 <div style="display: inline_block"><br>
- 
  <hr>
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Knowledge+of+Tecnologies+!!!)](https://git.io/typing-svg)
- 
- <table border = "15">
-  <td align="center"><img align="center" alt="Max-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML</td>
-  <td align="center"><img align="center" alt="Max-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS</td>
-  <td align="center"><img align="center" alt="Max-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">JavaScript</td>
-  <td align="center"><img align="center" alt="Max-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">Java</td>
-  <td align="center"><img align="center" alt="Max-Data" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">Data Relational</td>
-  <td align="center"><img align="center" alt="Max-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">VS Code</td>
-  <td align="center"><img align="center" alt="Max-Wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">Wordpress</td>
-  <td align="center"><img align="center" alt="Max-Bp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">Bootstrap</td>
- </table>
 
+<h1 align="center">Estudando as Tecnologias.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" color="FFFFFF"
+ style="margin-bottom: -5px;"/> !</h1>
+ 
+   <!--Antigo código comentado-->
+  <!--td align="center"><img align="center" alt="Max-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML</td-->
+   <!--td align="center"><img align="center" alt="Max-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS</td-->
+  <!--td align="center"><img align="center" alt="Max-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">JavaScript</td-->
+  <!--td align="center"><img align="center" alt="Max-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">Java</td-->
+  <!--td align="center"><img align="center" alt="Max-Data" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">Data Relational</td-->
+  <!--td align="center"><img align="center" alt="Max-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">VS Code</td-->
+  <!--td align="center"><img align="center" alt="Max-Wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">Wordpress</td-->
+  <!--td align="center"><img align="center" alt="Max-Bp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">Bootstrap</td-->
+  <!--Início da tabela e espessura da borda-->
+  <!--Inicial table and width border-->
+  <!--Antigo código comentado-->
+  <!--td align="center"><img align="center" alt="Max-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">TypeScript</td-->
+  <!--td align="center"><img align="center" alt="Max-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">React</td-->
+  <!--td align="center"><img align="center" alt="Max-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Python</td-->
+  <!--td align="center"><img align="center" alt="Max-Ang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">Angular</td--> 
+  <!--td align="center"> <img align="center" alt="Max-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">Node</td-->
+  <!--td align="center"> <img align="center" alt="Max-Tail" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">Tailwind</td-->    
+  <!--td align="center"> <img align="center" alt="Max-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg">Dart</td-->          
+  <!--td align="center"><img align="center" alt="Max-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">Spring Ecosystem</td-->              
+  <!--td align="center"><img align="center" alt="Max-Flut" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">Flutter</td-->     
+ 
+ <!-- New Table Border-->
+ <table border = "15">
+  <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+  <td align="center"  width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="Java" />
+      <br>JAVA
+    </td>
+  
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
+      <br>WordPress
+    </td>
+     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+  <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+  <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+ </table>
 </div>
  <!--Final Conhecimento das Tecnologias - End Knowledge of Technologies--> 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
- 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Future+Studies+Projects+!!!)](https://git.io/typing-svg)
+ <h1 align="center">Projetos de Estudos Futuros.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" color="FFFFFF"
+ style="margin-bottom: -5px;"/> !</h1>
 <!--Projetos de Estudos Futuros - Future Studies Projects-->  
 <div style="display: inline_block"><br>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Future+Studies+Projects+!!!)](https://git.io/typing-svg)
- 
- <!--Início da tabela e espessura da borda-->
- <!--Inicial table and width border-->
- <table border = "15">
-  <td align="center"><img align="center" alt="Max-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">TypeScript</td>
-  <td align="center"><img align="center" alt="Max-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">React</td>
-  <td align="center"><img align="center" alt="Max-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Python</td>
-  <td align="center"><img align="center" alt="Max-Ang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">Angular</td> 
-  <td align="center"> <img align="center" alt="Max-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">Node</td>
-  <td align="center"> <img align="center" alt="Max-Tail" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">Tailwind</td>    
-  <td align="center"> <img align="center" alt="Max-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg">Dart</td>          
-  <td align="center"><img align="center" alt="Max-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">Spring Ecosystem</td>              
-  <td align="center"><img align="center" alt="Max-Flut" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">Flutter</td>                
-  </table>   
+            
+  <table border = "15">
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
+      <br>jQuery
+    </td>
+   <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+   <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+   <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+     <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+      </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+   
+   <td align="center" width="96"> 
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Git" />
+      <br>Docker
+    </td>
+     </table> 
  <!--Final da Tabela - End table-->
 </div>
 <!--Final Projetos de Estudos Futuros - End Future Studies Projects-->  
@@ -376,7 +463,7 @@ graph TD;
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=My+Social+Networks+!!!)](https://git.io/typing-svg)
  
- <div> 
+ <div align="center"> 
   <!--YouTube-->
   <a href="https://www.youtube.com/channel/UCBP2S6FzUxrxG1n2hL2L_8g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" align="center"></a>
   <!--Instagram-->
@@ -402,7 +489,7 @@ graph TD;
   
 <!--Gráfico Contribuições de Código - Graphic Code Constribuitions-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Code+Contribuitions+!!!)](https://git.io/typing-svg)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=maxnegrao33&bg_color=1e1a1c&color=ffffff&line=23297b&point=f8f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <h1 align="center">Github Metrics </h1>
 <p align="center">
