@@ -557,17 +557,19 @@ graph TD;
 <!--Contador de Visitas - Visitors Count-->
 <div align="center">
 <br><h1 align="centre"><b>Visitors Count</b></h1>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{maxnegrao33}/count.svg" /></p> 
+<!--p align="center"><img align="center" src="https://profile-counter.glitch.me/{maxnegrao33}/count.svg" /-->
+<p align="center"><img src="https://profile-counter.glitch.me/{maxnegrao33}/count.svg" alt="maxnegrao33 :: Visitor's Count" /></p>
+</p> 
 <br>
 <!--Final Contador de Visitas - Visitors Count-->
   
   
 <!--Países Visitantes - Visitors Flags-->  
  <table border="5"> 
- <h1 align="center">Counting of Visitors to this page in this section started from Jan 12, 2023 </h1><!--<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" color="FFFFFF"
+ <h1 align="center">Counting of Visitors to this page in this section started from final September, 2023 </h1><!--<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" color="FFFFFF"
 style="margin-bottom: -5px;"/> !</h1> -->
   <br><br>
-<a href="http://s01.flagcounter.com/more/X70"><img src="https://s01.flagcounter.com/count/X70/bg_000000/txt_FFFFFF/border_CCCCCC/columns_5/maxflags_50/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="5"></a>
+<a href="https://info.flagcounter.com/erq1"><img src="https://s01.flagcounter.com/count2/erq1/bg_EAE0FF/txt_000000/border_CCCCCC/columns_4/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 </div>
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->  
  <label for="text">
@@ -583,11 +585,6 @@ style="margin-bottom: -5px;"/> !</h1> -->
   </p>
 <!--Final da Faixa Animada - Rainbow range-->  
  <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
-  
-<!--Agradecimento pela Visita - Thanks for your Visit-->
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Thanks+for+your+Visit+!!!)](https://git.io/typing-svg)
-<!--Final Agradecimento pela Visita - End Thanks for your Visit-->
-<!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <!--Hackern Image -->
 <div align="center">
@@ -595,6 +592,12 @@ style="margin-bottom: -5px;"/> !</h1> -->
  
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
 <!--End Hacker Image -->
+
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!--Agradecimento pela Visita - Thanks for your Visit-->
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Thanks+for+your+Visit+!!!)](https://git.io/typing-svg)
+<!--Final Agradecimento pela Visita - End Thanks for your Visit-->
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
   
 <!--Gif Final - End Gif-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>    
