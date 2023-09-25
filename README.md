@@ -313,6 +313,9 @@ graph TD;
  <!--p align="center">
  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Maxnegrao33)](https://github.com/anuraghazra/github-readme-stats)
  </p-->
+
+ 
+<!-- New Code 25/09/2023------------------------------------------------------------------------------------------------------------->
  
  <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
  
