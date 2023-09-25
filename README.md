@@ -33,9 +33,11 @@ style="margin-bottom: -5px;"/> !</h1>
 <!--Header - My website-->
 <details>
  <summary><b> My Websites </b> </summary>
-<h1 align="center">My personal website, https://macielengenheiro.com.br<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" color="FFFFFF"
+ <div align="center">
+<br><h1 align="centre"><b>Developer</b></h1>
+<h1 align="center">My personal website, https://macielengenheiro.com.br<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="22px" color="FFFFFF"
 style="margin-bottom: -5px;" target="_blank" rel="noopener noreferrer"/> !</h1>
-<h1 align="center">Our technical team website, https://proedev-ewrb.vercel.app<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" color="FFFFFF"
+<h1 align="center">Our technical team website, https://proedev-ewrb.vercel.app<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="22px" color="FFFFFF"
 style="margin-bottom: -5px;" target="_blank" rel="noopener noreferrer"/> !</h1>
  </details>
 <!--End My Website-->
@@ -461,7 +463,7 @@ graph TD;
  <br>
  
 <!--Contador de Visitas - Visitors Count-->
- <div align="center">
+<div align="center">
 <br><h1 align="centre"><b>Visitors Count</b></h1>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{maxnegrao33}/count.svg" /></p> 
 <br>
@@ -495,8 +497,12 @@ style="margin-bottom: -5px;"/> !</h1> -->
 <!--Final Agradecimento pela Visita - End Thanks for your Visit-->
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
+<!--Hackern Image -->
+<div align="center">
+<br><h1 align="centre"><b>Goal: Full Stack Developer</b></h1>
+ 
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
-
+<!--End Hacker Image -->
   
 <!--Gif Final - End Gif-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>    
