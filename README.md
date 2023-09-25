@@ -237,12 +237,6 @@ graph TD;
   SQL-->JakartaFaces;
   JakartaFaces-->NoSQL;
 ```
- | Cloud | Database |
-| --- | --- |
-| Azure | Microsoft |
-| Amazon | Amazon Web Service |
-| Amazon | Amazon RDS |
-| Google | Firebase | 
 
  
 
