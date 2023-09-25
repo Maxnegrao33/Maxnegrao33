@@ -503,7 +503,8 @@ graph TD;
  
 <!--Gráfico da Cobrinha - Snake Animation Graphic-->
   <!--Forked to GitHub Rafaella Ballerini-->
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg)
 <!--Final Gráfico da Cobrinha - End Animation Graphic-->
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
   
