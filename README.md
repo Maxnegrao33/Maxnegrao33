@@ -1,32 +1,32 @@
 <!--Gif Inicial, Movimento Azul / Initial Gif - Blue Moviment-->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
 <!--Final do Gif Inicial / Initial Gif - Blue Moviment-->
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 
 <!--Header - Hello Everyone-->
-<h1 align="center">Hello, Everyone.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" color="FFFFFF"
-style="margin-bottom: -5px;"/> !</h1>
+ <h1 align="center">Hello, Everyone.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" color="FFFFFF"
+ style="margin-bottom: -5px;"/> !</h1>
 <!--End Hello Everyone-->
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <!--Faixa de Arco-Íris - Rainbow range-->
  <p align="center">
   <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Rainbow.gif" width="100vw">
-  </p>
+ </p>
 <!--Final da Faixa Animada - Rainbow range-->  
 <!--Final do Header-->
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <!--Descrição de quem sou - Who Am I Description-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Maciel+Oliveira;I'm+from+Brazil;I'm+Computer+Technician;Study+Computer+Engineering;Study+Post+Graduate+Degree+in+Software+Engineering;Study+Database;and+Programming+(Front+-+Back+End);My+Goal+:+To+be+Full+-+Stack+Developer;+Welcome+to+my+Profile!!!+)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Maciel+Oliveira;I'm+from+Brazil;I'm+Computer+Technician;Study+Computer+Engineering;Study+Post+Graduate+Degree+in+Software+Engineering;Study+Database;and+Programming+(Front+-+Back+End);My+Goal+:+To+be+Full+-+Stack+Developer;+Welcome+to+my+Profile!!!+)](https://git.io/typing-svg)
 <!--Final da Descrição - End to Who I am-->
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <!--Faixa de Arco-Íris - Rainbow range-->
  <p align="center">
   <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Rainbow.gif" width="100vw">
-  </p>
+ </p>
 <!--Final da Faixa Animada - Rainbow range-->  
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
@@ -34,18 +34,18 @@ style="margin-bottom: -5px;"/> !</h1>
 <details>
  <summary><b> My Websites </b> </summary>
  <div align="center">
-<br><h1 align="centre"><b>Developer</b></h1>
-<h1 align="center">My personal website, https://macielengenheiro.com.br<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="22px" color="FFFFFF"
+  <br><h1 align="centre"><b>Developer</b></h1>
+  <h1 align="center">My personal website, https://macielengenheiro.com.br<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="22px" color="FFFFFF"
 style="margin-bottom: -5px;" target="_blank" rel="noopener noreferrer"/> !</h1>
-<h1 align="center">Our technical team website, https://proedev-ewrb.vercel.app<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="22px" color="FFFFFF"
+  <h1 align="center">Our technical team website, https://proedev-ewrb.vercel.app<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="22px" color="FFFFFF"
 style="margin-bottom: -5px;" target="_blank" rel="noopener noreferrer"/> !</h1>
- </details>
+</details>
 <!--End My Website-->
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 
 <!--Banner Website Development-->
-![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
+ ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 <!--End Banner Website Development-->
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
@@ -146,9 +146,9 @@ style="margin-bottom: -5px;"/> !</h1>
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
  <!--Total Contribuitions / Current Streak-->
-<p align="center">
+ <p align="center">
   <a href="https://github.com/Maxnegrao33">
-   </p>
+ </p>
  <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
  
  <!--Structures Front and Back End--> 
@@ -224,18 +224,21 @@ graph TD;
   NoSQL-->CassandraDB;
   NoSQL-->REDIS;
   SQL-->Cloud;
-  Cloud-->Azure;
-  Cloud-->AWS;
-  Cloud-->Firebase;
   MongoDB-->Cloud;
   Cassandra-->Cloud;
   Redis-->Cloud;
   SQL-->JakartaFaces;
   JakartaFaces-->NoSQL;
+```
+ | Cloud | Database |
+| --- | --- |
+| Azure | Microsoft |
+| Amazon | Amazon Web Service |
+| Amazon | Amazon RDS |
+| Google | Firebase | 
+
  
- ```
- 
- 
+
 <!--End For Structures Front and Back-End-->
  <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
    
