@@ -264,7 +264,8 @@ graph TD;
    <!--img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Maxnegrao33&&count_private=true&show_icons=true&theme=chartreuse-dark"/--> 
 
 <!--Projetos e Contribuições - Projects and Contribuitions -->
- <img align="center" height="180em" src="https://streak-stats.demolab.com/?user=maxnegrao33&theme=highcontrast&ring=4675b8)](https://git.io/streak-stats)"/>    
+ <!--img align="center" height="180em" src="https://streak-stats.demolab.com/?user=maxnegrao33&theme=highcontrast&ring=4675b8)](https://git.io/streak-stats)"/-->    
+<img align="center" height="180em" src="https://streak-stats.demolab.com/?user=maxnegrao33&theme=dracula&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)"/>
  <!--Final Projetos e Contribuições - End Projects and Contribuitions -->   
    </div
  <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
