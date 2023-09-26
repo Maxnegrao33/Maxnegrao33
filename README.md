@@ -257,6 +257,19 @@ graph TD;
  <!--Atenção: ao fazer um fork troque o username -->
  <!--Attention: when making a fork, change the username -->
  
+<picture align="center">
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true&theme=dark">
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true" />
+</picture>
+    
  <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
    <!--img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Maxnegrao33&&count_private=true&show_icons=true&theme=chartreuse-dark"/--> 
@@ -280,14 +293,13 @@ graph TD;
  <img align="center" height="240em" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
   <!--Final Gif Digitando Códigos - End Typing Codes--> 
  
- 
+ <!--Top Languages-->
   <a href=""> 
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Maxnegrao33&&count_private=true&show_icons=true&theme=chartreuse-dark"/> 
- </a> 
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Maxnegrao33&&count_private=true&show_icons=true&theme=chartreuse-dark&langs_count=5"/> 
+  <img align="center "src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxnegrao33&show_icons=true&theme=chartreuse-dark&layout=pie&langs_count=6" />
+ </a>
  </div>
- <!--img src="https://wakatime.com/share/@maxnegrao33/ee1cf0fd-42a8-45c7-97f3-d2df82dd18b4.svg"/ --> 
- 
- <!--[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxnegrao33&layout=compact&hide=html,hack,css&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)-->
+
  <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
   
  <!--Faixa de Arco-Íris - Rainbow range-->
@@ -313,9 +325,9 @@ graph TD;
 <!--End to GitHub Stats-->
  <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
  
- <!--p align="center">
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Maxnegrao33)](https://github.com/anuraghazra/github-readme-stats)
- </p-->
+ <p align="center">
+
+ </p>
 
  <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
  
