@@ -256,8 +256,8 @@ graph TD;
  <!--Status do GitHub - GitHub Stats --> 
  <!--Atenção: ao fazer um fork troque o username -->
  <!--Attention: when making a fork, change the username -->
- ![Maxnegrao33's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true&theme=transparent)
- <!--![Maxnegrao33's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxnegrao33&show_icons=true&theme=radical)-->
+ <!--![Maxnegrao33's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true&theme=transparent)-->
+ ![Maxnegrao33's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true&theme=radical)
  
  <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
