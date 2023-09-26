@@ -257,8 +257,12 @@ graph TD;
  <!--Atenção: ao fazer um fork troque o username -->
  <!--Attention: when making a fork, change the username -->
  <!--![Maxnegrao33's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true&theme=transparent)-->
- ![Maxnegrao33's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true&theme=radical)
- 
+ <!--![Maxnegrao33's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true&theme=radical)-->
+ <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
  <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
    <!--img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Maxnegrao33&&count_private=true&show_icons=true&theme=chartreuse-dark"/--> 
