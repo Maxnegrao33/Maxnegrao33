@@ -282,7 +282,8 @@ graph TD;
  <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
    <!--img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Maxnegrao33&&count_private=true&show_icons=true&theme=chartreuse-dark"/--> 
- <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=maxnegrao33&theme=midnight-purple&hide_border=false" /> 
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=maxnegrao33&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false" />
+ 
 <!--Projetos e Contribuições - Projects and Contribuitions -->
  <!--img align="center" height="180em" src="https://streak-stats.demolab.com/?user=maxnegrao33&theme=highcontrast&ring=4675b8)](https://git.io/streak-stats)"/-->    
  <!--Final Projetos e Contribuições - End Projects and Contribuitions -->   
@@ -303,7 +304,7 @@ graph TD;
  
  <!--Top Languages-->
   <a href=""> 
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Maxnegrao33&&count_private=true&show_icons=true&theme=chartreuse-dark&langs_count=5"/> 
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maxnegrao33&&count_private=true&show_icons=true&theme=chartreuse-dark&langs_count=10"/> 
   <img align="center "src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxnegrao33&show_icons=true&theme=chartreuse-dark&layout=pie&langs_count=6" />
  </a>
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxnegrao33&layout=compact&theme=radical&column=7&row=1&margin-w=15&margin-h=15" alt="maxnegrao33" /></a> </p>
