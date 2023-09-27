@@ -269,23 +269,6 @@ graph TD;
   <!--img align="center" src="https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true" /-->
  <source/>
 
-<td width="50%" align="center">
-    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=maxnegrao33&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=maxnegrao33&theme=midnight-purple&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arjuncvinod&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-</td>
-
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjuncvinod&layout=compact&theme=radical&column=7&row=1&margin-w=15&margin-h=15" alt="arjuncvinod" /></a> </p>
-<!--- trophy (end) -->
-
-
 </p>        
  
 <!--- stats (end) --->
@@ -299,7 +282,7 @@ graph TD;
  <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
    <!--img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Maxnegrao33&&count_private=true&show_icons=true&theme=chartreuse-dark"/--> 
-
+ <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=maxnegrao33&theme=midnight-purple&hide_border=false" /> 
 <!--Projetos e Contribuições - Projects and Contribuitions -->
  <!--img align="center" height="180em" src="https://streak-stats.demolab.com/?user=maxnegrao33&theme=highcontrast&ring=4675b8)](https://git.io/streak-stats)"/-->    
  <!--Final Projetos e Contribuições - End Projects and Contribuitions -->   
@@ -364,8 +347,6 @@ graph TD;
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Knowledge+of+Tecnologies+!!!)](https://git.io/typing-svg)
 
-<h1 align="center">Estudando as Tecnologias.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" color="FFFFFF"
- style="margin-bottom: -5px;"/> !</h1>
  
    <!--Antigo código comentado-->
   <!--td align="center"><img align="center" alt="Max-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML</td-->
@@ -442,8 +423,7 @@ graph TD;
 
 <!--Projetos de Estudos Futuros - Future Studies Projects-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Future+Studies+Projects+!!!)](https://git.io/typing-svg)
- <h1 align="center">Future Studies Projects.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" color="FFFFFF"
- style="margin-bottom: -5px;"/> !</h1>
+
   
 <div style="display: inline_block"><br>    
   <table border = "15">
