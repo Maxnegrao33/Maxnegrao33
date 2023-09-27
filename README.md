@@ -526,7 +526,7 @@ graph TD;
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
   
   <!--Geolocalização da minha cidade de Rio Preto - My Home-->
-    <h1 align="center"> My Home</h1>
+ <h1 align="center">My Region, My State</h1>
   
   ```geojson
 {
