@@ -258,16 +258,42 @@ graph TD;
  <!--Attention: when making a fork, change the username -->
  
 <picture align="center">
-  <source
+  <source>
     srcset="https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true&theme=dark">
-  />
-  <source
+  
     srcset="https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true" />
+ 
+  <!--img align="center" src="https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true" /-->
+ <source/>
+
+<td width="50%" align="center">
+    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=maxnegrao33&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=maxnegrao33&theme=midnight-purple&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arjuncvinod&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+</td>
+
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjuncvinod&layout=compact&theme=radical&column=7&row=1&margin-w=15&margin-h=15" alt="arjuncvinod" /></a> </p>
+<!--- trophy (end) -->
+
+
+</p>        
+ 
+<!--- stats (end) --->
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+
 </picture>
     
  <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
@@ -276,7 +302,6 @@ graph TD;
 
 <!--Projetos e Contribuições - Projects and Contribuitions -->
  <!--img align="center" height="180em" src="https://streak-stats.demolab.com/?user=maxnegrao33&theme=highcontrast&ring=4675b8)](https://git.io/streak-stats)"/-->    
-<img align="center" height="180em" src="https://streak-stats.demolab.com/?user=maxnegrao33&theme=dracula&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)"/>
  <!--Final Projetos e Contribuições - End Projects and Contribuitions -->   
    </div
  <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
@@ -298,6 +323,7 @@ graph TD;
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Maxnegrao33&&count_private=true&show_icons=true&theme=chartreuse-dark&langs_count=5"/> 
   <img align="center "src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxnegrao33&show_icons=true&theme=chartreuse-dark&layout=pie&langs_count=6" />
  </a>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxnegrao33&layout=compact&theme=radical&column=7&row=1&margin-w=15&margin-h=15" alt="maxnegrao33" /></a> </p>
  </div>
 
  <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
