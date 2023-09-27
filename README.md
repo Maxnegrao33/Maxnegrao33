@@ -408,17 +408,18 @@ graph TD;
     </td>
  </table>
 </div>
-<div style="display: flex;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /></div>
+<!--div style="display: flex;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /></div--                                                                    
+              >
  <!--Final Conhecimento das Tecnologias - End Knowledge of Technologies--> 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
+
+<!--Projetos de Estudos Futuros - Future Studies Projects-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Future+Studies+Projects+!!!)](https://git.io/typing-svg)
- <h1 align="center">Projetos de Estudos Futuros.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" color="FFFFFF"
+ <h1 align="center">Future Studies Projects.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" color="FFFFFF"
  style="margin-bottom: -5px;"/> !</h1>
-<!--Projetos de Estudos Futuros - Future Studies Projects-->  
-<div style="display: inline_block"><br>
- 
-            
+  
+<div style="display: inline_block"><br>    
   <table border = "15">
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
@@ -459,7 +460,6 @@ graph TD;
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
       <br>PHP
     </td>
-   
    <td align="center" width="96"> 
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Git" />
       <br>Docker
@@ -502,7 +502,6 @@ graph TD;
 <!--Gráfico Contribuições de Código - Graphic Code Constribuitions-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Code+Contribuitions+!!!)](https://git.io/typing-svg)
 
-
 <h1 align="center">Github Metrics </h1>
 <p align="center">
   <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maxnegrao33&theme=github_dark" />
@@ -514,15 +513,13 @@ graph TD;
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
  
 <!--Gráfico da Cobrinha - Snake Animation Graphic-->
-  <!--Forked to GitHub Rafaella Ballerini-->
 
 ![Snake animation](https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg)
 <!--Final Gráfico da Cobrinha - End Animation Graphic-->
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
   
   <!--Geolocalização da minha cidade de Rio Preto - My Home-->
-  
-  <h1 align="center"> My Home</h1>
+    <h1 align="center"> My Home</h1>
   
   ```geojson
 {
