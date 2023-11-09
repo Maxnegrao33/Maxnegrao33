@@ -261,9 +261,15 @@ graph TD;
   <source>
     srcset="https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true&theme=dark">
+   <!--img align="center" src="https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true&theme=dark"-->
   
-    srcset="https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true"
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxnegrao33&show_icons=true&locale=en&layout=compact" alt="mmaxnegrao33" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true&locale=en" alt="maxnegrao33" /></p>
+    
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxnegrao33&" alt="maxnegrao33" /></p>  
+  
+  <!--srcset="https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
  
   <!--img align="center" src="https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true" /-->
