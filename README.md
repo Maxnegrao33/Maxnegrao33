@@ -71,31 +71,31 @@ style="margin-bottom: -5px;"/> !</h1>
   </tr>
  
 <tr>  
-  <td> Graduate in Computer Engineering</td>
-  <td> Computer Technician (Hardware)</td>
-  <td> HTML5</td> 
-  <td> Java</td>
+    <td> Graduate in Computer Engineering</td>
+    <td> Computer Technician (Hardware)</td>
+    <td> HTML5</td> 
+    <td> Java</td>
 </tr>
     
  <tr>   
-  <td> Post Graduate in Software Engineering</td>
-  <td> Assembly and Maintenance of Computers</td> 
-  <td> CSS3</td>
-  <td> Object Orientation</td>
+    <td> Post Graduate in Software Engineering</td>
+    <td> Assembly and Maintenance of Computers</td> 
+    <td> CSS3</td>
+    <td> Object Orientation</td>
  </tr>  
     
  <tr>  
-  <td> Relational Databases</td>
-  <td> Computers Networks</td> 
-  <td> JavaScript</td> 
-  <td> JDBC</td>
+    <td> Relational Databases</td>
+    <td> Computers Networks</td> 
+    <td> JavaScript</td> 
+    <td> JDBC</td>
  </tr>   
  
    <tr>  
-  <td> I. A. </td>
-  <td> Tecnician Services</td> 
-  <td> SQL</td> 
-  <td> Spring</td>
+    <td> I. A. </td>
+    <td> Tecnician Services</td> 
+    <td> SQL</td> 
+    <td> Spring</td>
  </tr>   
   
  </tbody> 
@@ -135,10 +135,10 @@ style="margin-bottom: -5px;"/> !</h1>
   </tr>
   
    <tr>  
-  <td> Code</td>
-  <td> JSP</td> 
-  <td> JSF</td> 
-  <td> Mandarin (starting)</td>
+    <td> Code</td>
+    <td> JSP</td> 
+    <td> JSF</td> 
+    <td> Mandarin (starting)</td>
  </tr>   
  
   </table>
@@ -148,7 +148,7 @@ style="margin-bottom: -5px;"/> !</h1>
  <!--Faixa de Arco-Íris - Rainbow range-->
  <p align="center">
   <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Rainbow.gif" width="100vw">
-  </p>
+ </p>
 <!--Final da Faixa Animada - Rainbow range-->  
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
@@ -246,7 +246,7 @@ graph TD;
    <!--Faixa de Arco-Íris - Rainbow range-->
  <p align="center">
   <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Rainbow.gif" width="100vw">
-  </p>
+ </p>
 <!--Final da Faixa Animada - Rainbow range-->  
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <br>
@@ -260,8 +260,10 @@ graph TD;
 <picture align="center">
   <source>
     
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true&theme=dark">
-  
+   <!--img align="center" src="https://github-readme-stats.vercel.app/api?username=maxnegrao33&show_icons=true&theme=dark">
+  <p  align="center"-->
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+</p>
    
  <source/>
 
@@ -269,8 +271,9 @@ graph TD;
  
 <!--- stats (end) --->
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+
+
+
 <br>
 
 </picture>
