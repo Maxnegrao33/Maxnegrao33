@@ -41,7 +41,7 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 <details>
  <summary><b> My Websites - Click Here </b> </summary>
  <div align="center">
-  <br><h1 align="centre"><b>Developer</b></h1>
+  <br><h1 align="centre"><b>Web Developer</b></h1>
   <h1 align="center">My personal website, https://macielengenheiro.com.br<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="15px" height="17px" color="FFFFFF"
 style="margin-bottom: -5px;" target="_blank" rel="noopener noreferrer"/> !</h1>
   <h1 align="center">My working website, https://canalnivel14.com.br<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="15px" height="17px" color="FFFFFF"
