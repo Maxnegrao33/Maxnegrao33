@@ -69,36 +69,49 @@ style="margin-bottom: -5px;"/> !</h1>
     <th><strong>🏆 About Me</strong></th>
     <td><strong>🛠 Technical Abilitess</strong></td>
     <td><strong>💻 Front-End (Learning)</strong></td>
+    <td><strong>💻 Front-End II(Learning)</strong></td>
     <td><strong>🖥 Back-End (Studying)</strong></td>
   </tr>
  
-<tr>  
+ <tr>  
     <td> Graduate in Computer Engineering</td>
     <td> Computer Technician (Hardware)</td>
-    <td> HTML5</td> 
+    <td> HTML 5</td> 
+    <td> Angular</td>
     <td> Java</td>
-</tr>
+ </tr>
     
  <tr>   
     <td> Post Graduate in Software Engineering</td>
     <td> Assembly and Maintenance of Computers</td> 
-    <td> CSS3</td>
+    <td> CSS 3</td>
+    <td> TypeScript</td>
     <td> Object Orientation</td>
  </tr>  
     
  <tr>  
     <td> Relational Databases</td>
     <td> Computers Networks</td> 
-    <td> JavaScript</td> 
+    <td> CSS Flexbox</td>
+    <td> React / React Native</td>
     <td> JDBC</td>
- </tr>   
+ </tr>  
  
-   <tr>  
-    <td> I. A. </td>
+ <tr>  
+    <td> Web Services </td>
     <td> Tecnician Services</td> 
-    <td> SQL</td> 
-    <td> Spring</td>
- </tr>   
+    <td> CSS Grid</td>
+    <td> Vue.Js</td> 
+    <td> NodeJs</td>
+   </tr>   
+
+   <tr>  
+    <td> System Developer </td>
+    <td> Web Configuration</td> 
+    <td> JavaScript</td>
+    <td> SaaS</td> 
+    <td> PHP</td>
+   </tr>   
   
  </tbody> 
  </table>  
@@ -109,31 +122,35 @@ style="margin-bottom: -5px;"/> !</h1>
  <!--Tabela Menor ou de Baixo - Under Table-->
  <table border = "15" align="center">
   <tr>
-   <th><strong>📚 Study Focus </strong></th> 
+    <th><strong>📚 Study Focus </strong></th> 
     <th><strong>📆 Ongoing Projects </strong></td>
-    <td><strong>📱 Mobile (Studying) </strong></td>
+    <td><strong>📱  Mobile (Studying) </strong></td>
     <td><strong>🥇 Languages </strong></td>
+    <td><strong>🖥  APIs / REST (Studying)</strong></td>
   </tr>
   
   <tr> 
     <td> Web Developer</td>
     <td> ChatGPT </td>
-    <td> Java </td>
+    <td> Java (Spring and Others)</td>
     <td> Brazilian Portuguese (native)</td>
+    <td> API SOAP</td>
   </tr>
   
   <tr> 
     <td> Wordpress</td>
     <td> Websites Creation</td>
-    <td> Android</td>
+    <td> Android (Flutter and Dart)</td>
     <td> English (intermediary)</>
+    <td> API REST</td>
   </tr>
   
   <tr>
     <td> Bootstrap</td>
-    <td> Web Services</td>
+    <td> Cloud SQL</td>
     <td> Frameworks Java</td>
     <td> Spanish (intermediary)</td>
+    <td> API RESTful</td>
   </tr>
   
    <tr>  
@@ -141,6 +158,7 @@ style="margin-bottom: -5px;"/> !</h1>
     <td> JSP</td> 
     <td> JSF</td> 
     <td> Mandarin (starting)</td>
+    <td> API Web Service</td>
  </tr>   
  
   </table>
