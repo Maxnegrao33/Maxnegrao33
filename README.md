@@ -46,7 +46,7 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 style="margin-bottom: -5px;" target="_blank" rel="noopener noreferrer"/> !</h1>
   <h1 align="center">My working website, https://canalnivel14.com.br<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="15px" height="17px" color="FFFFFF"
 style="margin-bottom: -5px;" target="_blank" rel="noopener noreferrer"/> !</h1>
-  <h1 align="center">Our technical team website, https://proedev-ewrb.vercel.app<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="15px" height="17px" color="FFFFFF"
+  <h1 align="center">My friends team developers website, https://proedev-ewrb.vercel.app<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="15px" height="17px" color="FFFFFF"
 style="margin-bottom: -5px;" target="_blank" rel="noopener noreferrer"/> !</h1>
 </details>
 <!--End My Website-->
