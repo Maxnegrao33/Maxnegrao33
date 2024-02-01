@@ -291,9 +291,6 @@ graph TD;
  
 <!--- stats (end) --->
 
-
-
-
 <br>
 
 </picture>
@@ -540,7 +537,9 @@ graph TD;
  
 <!--Gráfico da Cobrinha - Snake Animation Graphic-->
 
-![Snake animation](https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg)
+<!--![Snake animation](https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg)-->
+
+
 <!--Final Gráfico da Cobrinha - End Animation Graphic-->
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
   
