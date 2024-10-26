@@ -65,52 +65,64 @@ style="margin-bottom: -5px;" target="_blank" rel="noopener noreferrer"/> !</h1>
 style="margin-bottom: -5px;"/> !</h1>
  
  <tbody>
+  <!---->
   <tr>
-    <th><strong>🏆 About Me</strong></th>
+    <th><strong>🏆 Academic</strong></th>
     <td><strong>🛠 Technical Abilitess</strong></td>
-    <td><strong>💻 Front-End (Learning)</strong></td>
-    <td><strong>💻 Front-End II(Learning)</strong></td>
-    <td><strong>🖥 Back-End (Studying)</strong></td>
+    <td><strong>💻 Front-End </strong></td>
+    <td><strong>💻 Python </strong></td>
+    <td><strong>🖥 Java </strong></td>
+    <td><strong>🖥 Databases </strong></td>
   </tr>
- 
+  
+ <!--1-->
  <tr>  
-    <td> Graduate in Computer Engineering</td>
-    <td> Computer Technician (Hardware)</td>
+    <td> Computer Engineering</td>
+    <td> Technician Hardware</td>
     <td> HTML 5</td> 
-    <td> Angular</td>
+    <td> Python</td>
     <td> Java</td>
+    <td> SQL</td>
  </tr>
-    
+
+ <!--2-->   
  <tr>   
-    <td> Post Graduate in Software Engineering</td>
-    <td> Assembly and Maintenance of Computers</td> 
+    <td> MBA in Cybersecurity</td>
+    <td> Assembly and Maintenance</td> 
     <td> CSS 3</td>
-    <td> TypeScript</td>
+    <td> Libraries</td>
     <td> Object Orientation</td>
+    <td> No-SQL</td>
  </tr>  
-    
+
+ <!--3-->   
  <tr>  
-    <td> Relational Databases</td>
+    <td> MBA in Data Science</td>
     <td> Computers Networks</td> 
-    <td> CSS Flexbox</td>
-    <td> React / React Native</td>
+    <td> JavaScript</td>
+    <td> Django</td>
     <td> JDBC</td>
+    <td> Data Analitics</td>
  </tr>  
- 
+
+ <!--4-->
  <tr>  
-    <td> Web Services </td>
+    <td> MBA in Big Data Analytics </td>
     <td> Tecnician Services</td> 
-    <td> CSS Grid</td>
-    <td> Vue.Js</td> 
-    <td> NodeJs</td>
+    <td> </td>
+    <td> Pyramid</td> 
+    <td> JSP</td>
+    <td> Data Mining</td>
    </tr>   
 
+ <!--5-->
    <tr>  
-    <td> System Developer </td>
-    <td> Web Configuration</td> 
-    <td> JavaScript</td>
-    <td> SaaS</td> 
-    <td> PHP</td>
+    <td> Developer </td>
+    <td> Windows Server</td> 
+    <td> </td>
+    <td> Flask</td> 
+    <td> JSF</td>
+    <td> Data Warehouse</td>
    </tr>   
   
  </tbody> 
@@ -124,41 +136,46 @@ style="margin-bottom: -5px;"/> !</h1>
   <tr>
     <th><strong>📚 Study Focus </strong></th> 
     <th><strong>📆 Ongoing Projects </strong></td>
-    <td><strong>📱  Mobile (Studying) </strong></td>
+    <td><strong>📱  Studying </strong></td>
     <td><strong>🥇 Languages </strong></td>
-    <td><strong>🖥  APIs / REST (Studying)</strong></td>
+    <td><strong>🖥 GUI Development (Studying)</strong></td>
+    <td><strong>🥇 Others Projects (Future) </strong></td>
   </tr>
   
   <tr> 
-    <td> Web Developer</td>
+    <td> Math</td>
     <td> ChatGPT </td>
-    <td> Java (Spring and Others)</td>
+    <td> Java / Python</td>
     <td> Brazilian Portuguese (native)</td>
-    <td> API SOAP</td>
+    <td> thinker</td>
+    <td> History Degree </td>
   </tr>
   
   <tr> 
-    <td> Wordpress</td>
-    <td> Websites Creation</td>
+    <td> Data</td>
+    <td> I.A.</td>
     <td> Android (Flutter and Dart)</td>
     <td> English (intermediary)</>
-    <td> API REST</td>
+    <td> PyGObject</td>
+    <td> Philosophy Degree</td>
   </tr>
   
   <tr>
-    <td> Bootstrap</td>
-    <td> Cloud SQL</td>
-    <td> Frameworks Java</td>
+    <td> Developer (Web)</td>
+    <td> Machine Learning</td>
+    <td> Pandas / Matplotlib</td>
     <td> Spanish (intermediary)</td>
-    <td> API RESTful</td>
+    <td> Kivy</td>
+    <td> Astronomy Degree</td>
   </tr>
   
    <tr>  
-    <td> Code</td>
-    <td> JSP</td> 
-    <td> JSF</td> 
-    <td> Mandarin (starting)</td>
-    <td> API Web Service</td>
+    <td> Codes</td>
+    <td> Cloud SQL</td> 
+    <td> OpenStack / Salt</td> 
+    <td> </td>
+    <td> DearPyGui</td>
+    <td> Neurocientist Degree</td>
  </tr>   
  
   </table>
