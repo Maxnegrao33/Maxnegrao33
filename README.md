@@ -82,7 +82,7 @@ style="margin-bottom: -5px;"/> !</h1>
     <td> HTML 5</td> 
     <td> Python</td>
     <td> Java</td>
-    <td> SQL</td>
+    <td> SQL/No-SQL</td>
  </tr>
 
  <!--2-->   
@@ -92,7 +92,7 @@ style="margin-bottom: -5px;"/> !</h1>
     <td> CSS 3</td>
     <td> Libraries</td>
     <td> Object Orientation</td>
-    <td> No-SQL</td>
+    <td> Security SQL</td>
  </tr>  
 
  <!--3-->   
@@ -111,7 +111,7 @@ style="margin-bottom: -5px;"/> !</h1>
     <td> Tecnician Services</td> 
     <td> </td>
     <td> Pyramid</td> 
-    <td> JSP</td>
+    <td> Hibernate</td>
     <td> Data Mining</td>
    </tr>   
 
@@ -120,7 +120,7 @@ style="margin-bottom: -5px;"/> !</h1>
     <td> Study Machine Learning </td>
     <td> Servers</td> 
     <td> </td>
-    <td> Flask</td> 
+    <td> Developer</td> 
     <td> JSF</td>
     <td> Data Warehouse</td>
    </tr>   
@@ -136,7 +136,7 @@ style="margin-bottom: -5px;"/> !</h1>
   <tr>
     <th><strong>📚 Study Focus </strong></th> 
     <th><strong>📆 Ongoing Projects </strong></td>
-    <td><strong>📱  Studying </strong></td>
+    <td><strong>📱Studying </strong></td>
     <td><strong>🥇 Languages </strong></td>
     <td><strong>🖥 GUI Development (Studying)</strong></td>
     <td><strong>🥇 Others Projects (Future) </strong></td>
@@ -144,24 +144,24 @@ style="margin-bottom: -5px;"/> !</h1>
   
   <tr> 
     <td> Math</td>
-    <td> ChatGPT </td>
+    <td> I.A. </td>
     <td> Java / Python</td>
     <td> Brazilian Portuguese (native)</td>
-    <td> thinker</td>
+    <td> Thinker</td>
     <td> History Degree </td>
   </tr>
   
   <tr> 
-    <td> Data</td>
+    <td> Databases</td>
     <td> I.A.</td>
-    <td> Android (Flutter and Dart)</td>
+    <td> Systems</td>
     <td> English (intermediary)</>
     <td> PyGObject</td>
     <td> Philosophy Degree</td>
   </tr>
   
   <tr>
-    <td> Developer (Web)</td>
+    <td> Developer (Data)</td>
     <td> Machine Learning</td>
     <td> Pandas / Matplotlib</td>
     <td> Spanish (intermediary)</td>
