@@ -77,7 +77,7 @@ style="margin-bottom: -5px;"/> !</h1>
   
  <!--1-->
  <tr>  
-    <td> Computer Engineering</td>
+    <td> Barchelor in Computer Engineering</td>
     <td> Technician Hardware</td>
     <td> HTML 5</td> 
     <td> Python</td>
@@ -87,7 +87,7 @@ style="margin-bottom: -5px;"/> !</h1>
 
  <!--2-->   
  <tr>   
-    <td> MBA in Cybersecurity</td>
+    <td> Post Degree in Cybersecurity</td>
     <td> Assembly and Maintenance</td> 
     <td> CSS 3</td>
     <td> Libraries</td>
@@ -97,7 +97,7 @@ style="margin-bottom: -5px;"/> !</h1>
 
  <!--3-->   
  <tr>  
-    <td> MBA in Data Science</td>
+    <td> Post Degree in Data Science</td>
     <td> Computers Networks</td> 
     <td> JavaScript</td>
     <td> Django</td>
@@ -107,7 +107,7 @@ style="margin-bottom: -5px;"/> !</h1>
 
  <!--4-->
  <tr>  
-    <td> MBA in Big Data Analytics </td>
+    <td> Study in Big Data Analytics </td>
     <td> Tecnician Services</td> 
     <td> </td>
     <td> Pyramid</td> 
@@ -117,8 +117,8 @@ style="margin-bottom: -5px;"/> !</h1>
 
  <!--5-->
    <tr>  
-    <td> Developer </td>
-    <td> Windows Server</td> 
+    <td> Study Machine Learning </td>
+    <td> Servers</td> 
     <td> </td>
     <td> Flask</td> 
     <td> JSF</td>
