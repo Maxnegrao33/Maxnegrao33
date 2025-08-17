@@ -69,15 +69,15 @@ style="margin-bottom: -5px;"/> !</h1>
   <tr>
     <th><strong>🏆 Academic</strong></th>
     <td><strong>🛠 Technical Abilitess</strong></td>
-    <td><strong>💻 Front-End </strong></td>
-    <td><strong>💻 Python </strong></td>
+    <td><strong>💻 Web</strong></td>
+    <td><strong>💻 Developer</strong></td>
     <td><strong>🖥 Java </strong></td>
     <td><strong>🖥 Databases </strong></td>
   </tr>
   
  <!--1-->
  <tr>  
-    <td> Barchelor in Computer Engineering</td>
+    <td> Barchelor in Comp. Engineering</td>
     <td> Technician Hardware</td>
     <td> HTML 5</td> 
     <td> Python</td>
@@ -92,7 +92,7 @@ style="margin-bottom: -5px;"/> !</h1>
     <td> CSS 3</td>
     <td> Libraries</td>
     <td> Object Orientation</td>
-    <td> Security SQL</td>
+    <td> Transact SQL</td>
  </tr>  
 
  <!--3-->   
@@ -109,9 +109,9 @@ style="margin-bottom: -5px;"/> !</h1>
  <tr>  
     <td> Study in Big Data Analytics </td>
     <td> Tecnician Services</td> 
-    <td> </td>
-    <td> Pyramid</td> 
-    <td> Hibernate</td>
+    <td> JavaScript</td>
+    <td> Pandas</td> 
+    <td> API</td>
     <td> Data Mining</td>
    </tr>   
 
@@ -119,10 +119,10 @@ style="margin-bottom: -5px;"/> !</h1>
    <tr>  
     <td> Study Machine Learning </td>
     <td> Servers</td> 
-    <td> </td>
-    <td> Developer</td> 
+    <td> React</td>
+    <td> R</td> 
     <td> JSF</td>
-    <td> Data Warehouse</td>
+    <td> Data Minnning</td>
    </tr>   
   
  </tbody> 
